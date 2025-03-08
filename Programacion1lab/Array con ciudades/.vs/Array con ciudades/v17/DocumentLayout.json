@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Programacion1lab\\Array con ciudades\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{483C5A07-269B-44E9-82FC-A45D3847658E}|Array con ciudades\\Array con ciudades.csproj|c:\\users\\daniel\\desktop\\proyectos\\c-sharp\\programacion1lab\\array con ciudades\\array con ciudades\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{483C5A07-269B-44E9-82FC-A45D3847658E}|Array con ciudades\\Array con ciudades.csproj|solutionrelative:array con ciudades\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{483C5A07-269B-44E9-82FC-A45D3847658E}|Array con ciudades\\Array con ciudades.csproj|c:\\users\\daniel\\desktop\\proyectos\\c-sharp\\programacion1lab\\array con ciudades\\array con ciudades\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{483C5A07-269B-44E9-82FC-A45D3847658E}|Array con ciudades\\Array con ciudades.csproj|solutionrelative:array con ciudades\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{483C5A07-269B-44E9-82FC-A45D3847658E}|Array con ciudades\\Array con ciudades.csproj|c:\\users\\daniel\\desktop\\proyectos\\c-sharp\\programacion1lab\\array con ciudades\\array con ciudades\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{483C5A07-269B-44E9-82FC-A45D3847658E}|Array con ciudades\\Array con ciudades.csproj|solutionrelative:array con ciudades\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,7 +26,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": ".gitignore",
               "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Programacion1lab\\Array con ciudades\\Array con ciudades\\.gitignore",
               "RelativeDocumentMoniker": "Array con ciudades\\.gitignore",
@@ -34,18 +34,17 @@
               "RelativeToolTip": "Array con ciudades\\.gitignore",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-02-28T15:19:03.188Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-28T15:19:03.188Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Programacion1lab\\Array con ciudades\\Array con ciudades\\Program.cs",
               "RelativeDocumentMoniker": "Array con ciudades\\Program.cs",
               "ToolTip": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Programacion1lab\\Array con ciudades\\Array con ciudades\\Program.cs",
               "RelativeToolTip": "Array con ciudades\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAA0AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-28T14:35:13.176Z",
               "EditorCaption": ""

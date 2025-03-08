@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Programacion1lab\\dos conjuntos de numeros enteros\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15E0614A-6373-43AF-9B60-8417A65608E3}|dos conjuntos de numeros enteros\\dos conjuntos de numeros enteros.csproj|c:\\users\\daniel\\desktop\\proyectos\\c-sharp\\programacion1lab\\dos conjuntos de numeros enteros\\dos conjuntos de numeros enteros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15E0614A-6373-43AF-9B60-8417A65608E3}|dos conjuntos de numeros enteros\\dos conjuntos de numeros enteros.csproj|solutionrelative:dos conjuntos de numeros enteros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15E0614A-6373-43AF-9B60-8417A65608E3}|dos conjuntos de numeros enteros\\dos conjuntos de numeros enteros.csproj|c:\\users\\daniel\\desktop\\proyectos\\c-sharp\\programacion1lab\\dos conjuntos de numeros enteros\\dos conjuntos de numeros enteros\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{15E0614A-6373-43AF-9B60-8417A65608E3}|dos conjuntos de numeros enteros\\dos conjuntos de numeros enteros.csproj|solutionrelative:dos conjuntos de numeros enteros\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Programacion1lab\\dos conjuntos de numeros enteros\\dos conjuntos de numeros enteros\\.gitignore",
+              "RelativeDocumentMoniker": "dos conjuntos de numeros enteros\\.gitignore",
+              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Programacion1lab\\dos conjuntos de numeros enteros\\dos conjuntos de numeros enteros\\.gitignore",
+              "RelativeToolTip": "dos conjuntos de numeros enteros\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-08T04:29:11.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Programacion1lab\\dos conjuntos de numeros enteros\\dos conjuntos de numeros enteros\\Program.cs",
+              "RelativeDocumentMoniker": "dos conjuntos de numeros enteros\\Program.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Programacion1lab\\dos conjuntos de numeros enteros\\dos conjuntos de numeros enteros\\Program.cs",
+              "RelativeToolTip": "dos conjuntos de numeros enteros\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T04:28:10.757Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

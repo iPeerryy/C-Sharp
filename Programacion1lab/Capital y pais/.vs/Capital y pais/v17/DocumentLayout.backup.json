@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2D2CF94-ED04-449C-A150-E5BA9C02A209}|Capital y pais\\Capital y pais.csproj|c:\\users\\daniel\\desktop\\proyectos\\c-sharp\\programacion1lab\\capital y pais\\capital y pais\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2D2CF94-ED04-449C-A150-E5BA9C02A209}|Capital y pais\\Capital y pais.csproj|solutionrelative:capital y pais\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2D2CF94-ED04-449C-A150-E5BA9C02A209}|Capital y pais\\Capital y pais.csproj|c:\\users\\daniel\\desktop\\proyectos\\c-sharp\\programacion1lab\\capital y pais\\capital y pais\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2D2CF94-ED04-449C-A150-E5BA9C02A209}|Capital y pais\\Capital y pais.csproj|solutionrelative:capital y pais\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,13 +26,25 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Programacion1lab\\Capital y pais\\Capital y pais\\.gitignore",
+              "RelativeDocumentMoniker": "Capital y pais\\.gitignore",
+              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Programacion1lab\\Capital y pais\\Capital y pais\\.gitignore",
+              "RelativeToolTip": "Capital y pais\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-28T15:42:08.588Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Programacion1lab\\Capital y pais\\Capital y pais\\Program.cs",
               "RelativeDocumentMoniker": "Capital y pais\\Program.cs",
-              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Programacion1lab\\Capital y pais\\Capital y pais\\Program.cs*",
-              "RelativeToolTip": "Capital y pais\\Program.cs*",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Programacion1lab\\Capital y pais\\Capital y pais\\Program.cs",
+              "RelativeToolTip": "Capital y pais\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACIAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-28T15:31:26.044Z",
               "EditorCaption": ""
