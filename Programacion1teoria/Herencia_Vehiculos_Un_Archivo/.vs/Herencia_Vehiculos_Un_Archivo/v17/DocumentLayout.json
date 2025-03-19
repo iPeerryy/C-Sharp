@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Programacion1teoria\\Herencia_Vehiculos_Un_Archivo\\",
+  "WorkspaceRootPath": "C:\\Users\\El_pe\\Desktop\\Proyectos\\C-Sharp\\C-Sharp\\Programacion1teoria\\Herencia_Vehiculos_Un_Archivo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9CC2CEA3-BEE8-4E11-9AA2-CC11EA102E75}|Herencia_Vehiculos_Un_Archivo\\Herencia_Vehiculos_Un_Archivo.csproj|c:\\users\\daniel\\desktop\\proyectos\\c-sharp\\programacion1teoria\\herencia_vehiculos_un_archivo\\herencia_vehiculos_un_archivo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9CC2CEA3-BEE8-4E11-9AA2-CC11EA102E75}|Herencia_Vehiculos_Un_Archivo\\Herencia_Vehiculos_Un_Archivo.csproj|c:\\users\\el_pe\\desktop\\proyectos\\c-sharp\\c-sharp\\programacion1teoria\\herencia_vehiculos_un_archivo\\herencia_vehiculos_un_archivo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9CC2CEA3-BEE8-4E11-9AA2-CC11EA102E75}|Herencia_Vehiculos_Un_Archivo\\Herencia_Vehiculos_Un_Archivo.csproj|solutionrelative:herencia_vehiculos_un_archivo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9CC2CEA3-BEE8-4E11-9AA2-CC11EA102E75}|Herencia_Vehiculos_Un_Archivo\\Herencia_Vehiculos_Un_Archivo.csproj|c:\\users\\daniel\\desktop\\proyectos\\c-sharp\\programacion1teoria\\herencia_vehiculos_un_archivo\\herencia_vehiculos_un_archivo\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "AbsoluteMoniker": "D:0:0:{9CC2CEA3-BEE8-4E11-9AA2-CC11EA102E75}|Herencia_Vehiculos_Un_Archivo\\Herencia_Vehiculos_Un_Archivo.csproj|c:\\users\\el_pe\\desktop\\proyectos\\c-sharp\\c-sharp\\programacion1teoria\\herencia_vehiculos_un_archivo\\herencia_vehiculos_un_archivo\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{9CC2CEA3-BEE8-4E11-9AA2-CC11EA102E75}|Herencia_Vehiculos_Un_Archivo\\Herencia_Vehiculos_Un_Archivo.csproj|solutionrelative:herencia_vehiculos_un_archivo\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
   ],
@@ -18,34 +18,29 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": ".gitignore",
-              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Programacion1teoria\\Herencia_Vehiculos_Un_Archivo\\Herencia_Vehiculos_Un_Archivo\\.gitignore",
+              "DocumentMoniker": "C:\\Users\\El_pe\\Desktop\\Proyectos\\C-Sharp\\C-Sharp\\Programacion1teoria\\Herencia_Vehiculos_Un_Archivo\\Herencia_Vehiculos_Un_Archivo\\.gitignore",
               "RelativeDocumentMoniker": "Herencia_Vehiculos_Un_Archivo\\.gitignore",
-              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Programacion1teoria\\Herencia_Vehiculos_Un_Archivo\\Herencia_Vehiculos_Un_Archivo\\.gitignore",
+              "ToolTip": "C:\\Users\\El_pe\\Desktop\\Proyectos\\C-Sharp\\C-Sharp\\Programacion1teoria\\Herencia_Vehiculos_Un_Archivo\\Herencia_Vehiculos_Un_Archivo\\.gitignore",
               "RelativeToolTip": "Herencia_Vehiculos_Un_Archivo\\.gitignore",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-03-19T19:46:37.822Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-19T19:46:37.822Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Programacion1teoria\\Herencia_Vehiculos_Un_Archivo\\Herencia_Vehiculos_Un_Archivo\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\El_pe\\Desktop\\Proyectos\\C-Sharp\\C-Sharp\\Programacion1teoria\\Herencia_Vehiculos_Un_Archivo\\Herencia_Vehiculos_Un_Archivo\\Program.cs",
               "RelativeDocumentMoniker": "Herencia_Vehiculos_Un_Archivo\\Program.cs",
-              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Programacion1teoria\\Herencia_Vehiculos_Un_Archivo\\Herencia_Vehiculos_Un_Archivo\\Program.cs",
+              "ToolTip": "C:\\Users\\El_pe\\Desktop\\Proyectos\\C-Sharp\\C-Sharp\\Programacion1teoria\\Herencia_Vehiculos_Un_Archivo\\Herencia_Vehiculos_Un_Archivo\\Program.cs",
               "RelativeToolTip": "Herencia_Vehiculos_Un_Archivo\\Program.cs",
-              "ViewState": "AgIAAFYAAAAAAAAAAAAswGQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowM0AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-18T22:09:58.656Z",
               "EditorCaption": ""

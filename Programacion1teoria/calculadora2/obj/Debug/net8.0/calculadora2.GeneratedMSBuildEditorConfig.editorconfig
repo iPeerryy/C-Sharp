@@ -8,6 +8,12 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = calculadora2
+<<<<<<< Updated upstream
 build_property.ProjectDir = C:\Users\Daniel\Desktop\Proyectos\C-Sharp\Programacion1teoria\calculadora2\
+=======
+build_property.ProjectDir = C:\Users\El_pe\Desktop\Proyectos\C-Sharp\C-Sharp\Programacion1teoria\calculadora2\
+>>>>>>> Stashed changes
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 

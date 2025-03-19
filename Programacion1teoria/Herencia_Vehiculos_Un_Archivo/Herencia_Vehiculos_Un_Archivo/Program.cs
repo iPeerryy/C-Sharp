@@ -69,7 +69,7 @@ namespace VehiculosApp
 			Impuesto = PrecioBase * 0.25;
 		}
 
-
+		// Metodo main donde se lanzarán todas las funciones
 		class Program
 		{
 			static void Main(string[] args)
@@ -200,7 +200,7 @@ namespace VehiculosApp
 			}
 
 			
-
+			// Metodo para mostrar el resultado del vehiculo
 			static void MostrarResultados(Vehiculo vehiculo)
 			{
 				if (vehiculo != null)

@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< Updated upstream
   "dgSpecHash": "9ECz3m2E2ZM=",
   "success": true,
   "projectFilePath": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Programacion1teoria\\calculadora2\\calculadora2.csproj",
+=======
+  "dgSpecHash": "/Izfw0pIacU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\El_pe\\Desktop\\Proyectos\\C-Sharp\\C-Sharp\\Programacion1teoria\\calculadora2\\calculadora2.csproj",
+>>>>>>> Stashed changes
   "expectedPackageFiles": [],
   "logs": []
 }

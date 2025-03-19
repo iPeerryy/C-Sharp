@@ -14,7 +14,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("calculadora2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< Updated upstream
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+03325d3c3681ab6c0898d1da22c5560439242cb3")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e4b478aa00bf0fe4ba13f3eee278a1a1d03576ae")]
+>>>>>>> Stashed changes
 [assembly: System.Reflection.AssemblyProductAttribute("calculadora2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("calculadora2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
