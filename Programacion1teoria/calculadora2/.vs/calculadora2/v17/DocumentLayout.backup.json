@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Daniel\\Desktop\\calculadora2\\",
+  "WorkspaceRootPath": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Programacion1teoria\\calculadora2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2EC49010-F5A7-4986-85C6-5988414367C0}|calculadora2.csproj|c:\\users\\daniel\\desktop\\calculadora2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2EC49010-F5A7-4986-85C6-5988414367C0}|calculadora2.csproj|c:\\users\\daniel\\desktop\\proyectos\\c-sharp\\programacion1teoria\\calculadora2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2EC49010-F5A7-4986-85C6-5988414367C0}|calculadora2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2EC49010-F5A7-4986-85C6-5988414367C0}|calculadora2.csproj|c:\\users\\daniel\\desktop\\calculadora2\\operacionescalculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2EC49010-F5A7-4986-85C6-5988414367C0}|calculadora2.csproj|c:\\users\\daniel\\desktop\\proyectos\\c-sharp\\programacion1teoria\\calculadora2\\operacionescalculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2EC49010-F5A7-4986-85C6-5988414367C0}|calculadora2.csproj|solutionrelative:operacionescalculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,11 +28,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "OperacionesCalculadora.cs",
-              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\calculadora2\\OperacionesCalculadora.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Programacion1teoria\\calculadora2\\OperacionesCalculadora.cs",
               "RelativeDocumentMoniker": "OperacionesCalculadora.cs",
-              "ToolTip": "C:\\Users\\Daniel\\Desktop\\calculadora2\\OperacionesCalculadora.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Programacion1teoria\\calculadora2\\OperacionesCalculadora.cs",
               "RelativeToolTip": "OperacionesCalculadora.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBcAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-16T01:36:23.94Z",
               "EditorCaption": ""
@@ -41,11 +41,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\calculadora2\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Programacion1teoria\\calculadora2\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Daniel\\Desktop\\calculadora2\\Program.cs*",
-              "RelativeToolTip": "Program.cs*",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACcAAAA1AAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Programacion1teoria\\calculadora2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-16T01:31:53.913Z",
               "EditorCaption": ""
