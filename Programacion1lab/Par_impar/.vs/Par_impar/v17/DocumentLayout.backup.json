@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Programacion1lab\\Par_impar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EDE47ADC-B68F-4D56-A410-E22CDAE4D8FA}|Par_impar\\Par_impar.csproj|c:\\users\\daniel\\desktop\\proyectos\\c-sharp\\programacion1lab\\par_impar\\par_impar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDE47ADC-B68F-4D56-A410-E22CDAE4D8FA}|Par_impar\\Par_impar.csproj|solutionrelative:par_impar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Programacion1lab\\Par_impar\\Par_impar\\Program.cs",
+              "RelativeDocumentMoniker": "Par_impar\\Program.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Programacion1lab\\Par_impar\\Par_impar\\Program.cs",
+              "RelativeToolTip": "Par_impar\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T22:36:46.315Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
