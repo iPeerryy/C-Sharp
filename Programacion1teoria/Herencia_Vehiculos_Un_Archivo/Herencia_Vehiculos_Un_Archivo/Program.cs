@@ -35,7 +35,7 @@ namespace VehiculosApp
 	}
 
 
-	public class Camion : Vehiculo
+	public class Camion : Carro
 	{
 
 		public double CapacidadCarga;
@@ -48,7 +48,7 @@ namespace VehiculosApp
 	}
 
 
-	public class Motor : Vehiculo
+	public class Motor : Camion
 	{
 
 		public double Potencia;
@@ -60,7 +60,7 @@ namespace VehiculosApp
 		}
 	}
 
-	public class Camioneta : Vehiculo
+	public class Camioneta : Motor
 	{
 		public int NumeroDeRuedas;
 
@@ -69,28 +69,29 @@ namespace VehiculosApp
 			Impuesto = PrecioBase * 0.25;
 		}
 
-		// Metodo main donde se lanzarán todas las funciones
-		class Program
+	}
+	// Metodo main donde se lanzarán todas las funciones
+	class Program
+	{
+		static void Main(string[] args)
 		{
-			static void Main(string[] args)
+
+			Console.Clear();
+
+
+			Vehiculo vehiculo = CapturarDatos();
+
+			if (vehiculo != null)
 			{
-
-				Console.Clear();
-
-
-				Vehiculo vehiculo = CapturarDatos();
-
-				if( vehiculo != null )
-				{
-					vehiculo.CalcularImpuesto();
-				}
-
-				MostrarResultados(vehiculo);
-
-
-				Console.ReadKey();
+				vehiculo.CalcularImpuesto();
 			}
 
+			MostrarResultados(vehiculo);
+
+
+			Console.ReadKey();
+		}
+		
 			//metodo para capturar datos del vehiculo
 			static Vehiculo CapturarDatos()
 			{
@@ -239,4 +240,4 @@ namespace VehiculosApp
 			}
 		}
 	}
-}
+
