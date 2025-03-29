@@ -46,7 +46,7 @@ class Calculadora
 
 		if (operacionValida)
 		{
-			Console.WriteLine($"El resultado de " + (numero1) + " " + (operacion)+ " " + (numero2)+ " " + "es:" + (resultado));
+			Console.WriteLine("El resultado de " + (numero1) + " " + (operacion)+ " " + (numero2)+ " " + "es:" + (resultado));
 		}
 
 		

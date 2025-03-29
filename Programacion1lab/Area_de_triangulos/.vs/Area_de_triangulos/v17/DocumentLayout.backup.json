@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Programacion1lab\\Area_de_triangulos\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9DFED0B7-D11F-4E55-A677-ADD6F27C1B32}|Area_de_triangulos\\Area_de_triangulos.csproj|c:\\users\\daniel\\desktop\\proyectos\\c-sharp\\programacion1lab\\area_de_triangulos\\area_de_triangulos\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{9DFED0B7-D11F-4E55-A677-ADD6F27C1B32}|Area_de_triangulos\\Area_de_triangulos.csproj|solutionrelative:area_de_triangulos\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9DFED0B7-D11F-4E55-A677-ADD6F27C1B32}|Area_de_triangulos\\Area_de_triangulos.csproj|c:\\users\\daniel\\desktop\\proyectos\\c-sharp\\programacion1lab\\area_de_triangulos\\area_de_triangulos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9DFED0B7-D11F-4E55-A677-ADD6F27C1B32}|Area_de_triangulos\\Area_de_triangulos.csproj|solutionrelative:area_de_triangulos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -23,12 +27,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Programacion1lab\\Area_de_triangulos\\Area_de_triangulos\\.gitignore",
+              "RelativeDocumentMoniker": "Area_de_triangulos\\.gitignore",
+              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Programacion1lab\\Area_de_triangulos\\Area_de_triangulos\\.gitignore",
+              "RelativeToolTip": "Area_de_triangulos\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-22T22:36:09.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Programacion1lab\\Area_de_triangulos\\Area_de_triangulos\\Program.cs",
               "RelativeDocumentMoniker": "Area_de_triangulos\\Program.cs",
               "ToolTip": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Programacion1lab\\Area_de_triangulos\\Area_de_triangulos\\Program.cs",
               "RelativeToolTip": "Area_de_triangulos\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwCIAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-22T22:29:53.603Z",
               "EditorCaption": ""

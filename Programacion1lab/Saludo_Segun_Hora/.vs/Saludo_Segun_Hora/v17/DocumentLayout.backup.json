@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{030E78FD-465F-450A-ABFA-07B534ECDDE3}|Saludo_Segun_Hora\\Saludo_Segun_Hora.csproj|c:\\users\\daniel\\desktop\\proyectos\\c-sharp\\programacion1lab\\saludo_segun_hora\\saludo_segun_hora\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{030E78FD-465F-450A-ABFA-07B534ECDDE3}|Saludo_Segun_Hora\\Saludo_Segun_Hora.csproj|solutionrelative:saludo_segun_hora\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{030E78FD-465F-450A-ABFA-07B534ECDDE3}|Saludo_Segun_Hora\\Saludo_Segun_Hora.csproj|c:\\users\\daniel\\desktop\\proyectos\\c-sharp\\programacion1lab\\saludo_segun_hora\\saludo_segun_hora\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{030E78FD-465F-450A-ABFA-07B534ECDDE3}|Saludo_Segun_Hora\\Saludo_Segun_Hora.csproj|solutionrelative:saludo_segun_hora\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,11 +18,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Programacion1lab\\Saludo_Segun_Hora\\Saludo_Segun_Hora\\.gitignore",
+              "RelativeDocumentMoniker": "Saludo_Segun_Hora\\.gitignore",
+              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Programacion1lab\\Saludo_Segun_Hora\\Saludo_Segun_Hora\\.gitignore",
+              "RelativeToolTip": "Saludo_Segun_Hora\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-22T22:53:59.186Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -28,7 +45,7 @@
               "RelativeDocumentMoniker": "Saludo_Segun_Hora\\Program.cs",
               "ToolTip": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Programacion1lab\\Saludo_Segun_Hora\\Saludo_Segun_Hora\\Program.cs",
               "RelativeToolTip": "Saludo_Segun_Hora\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-22T22:51:27.895Z",
               "EditorCaption": ""

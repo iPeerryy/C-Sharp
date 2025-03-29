@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{8179E3BD-BCF4-4345-AD33-18D64208AAAC}|Clasificacion_Triangulo\\Clasificacion_Triangulo.csproj|c:\\users\\daniel\\desktop\\proyectos\\c-sharp\\programacion1lab\\clasificacion_triangulo\\clasificacion_triangulo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8179E3BD-BCF4-4345-AD33-18D64208AAAC}|Clasificacion_Triangulo\\Clasificacion_Triangulo.csproj|solutionrelative:clasificacion_triangulo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8179E3BD-BCF4-4345-AD33-18D64208AAAC}|Clasificacion_Triangulo\\Clasificacion_Triangulo.csproj|c:\\users\\daniel\\desktop\\proyectos\\c-sharp\\programacion1lab\\clasificacion_triangulo\\clasificacion_triangulo\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{8179E3BD-BCF4-4345-AD33-18D64208AAAC}|Clasificacion_Triangulo\\Clasificacion_Triangulo.csproj|solutionrelative:clasificacion_triangulo\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,11 +18,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Programacion1lab\\Clasificacion_Triangulo\\Clasificacion_Triangulo\\.gitignore",
+              "RelativeDocumentMoniker": "Clasificacion_Triangulo\\.gitignore",
+              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Programacion1lab\\Clasificacion_Triangulo\\Clasificacion_Triangulo\\.gitignore",
+              "RelativeToolTip": "Clasificacion_Triangulo\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-22T22:47:01.041Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -28,7 +45,7 @@
               "RelativeDocumentMoniker": "Clasificacion_Triangulo\\Program.cs",
               "ToolTip": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Programacion1lab\\Clasificacion_Triangulo\\Clasificacion_Triangulo\\Program.cs",
               "RelativeToolTip": "Clasificacion_Triangulo\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-22T22:45:40.938Z",
               "EditorCaption": ""

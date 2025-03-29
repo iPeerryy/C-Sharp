@@ -12,7 +12,7 @@ class CelsiusAFahrenheit
 
 		Console.WriteLine((celsius) + "°C equivalen a "+ (fahrenheit)+"°F");
 
-		// Pausa opcional:
-		// Console.ReadKey();
+		
+		Console.ReadKey();
 	}
 }
