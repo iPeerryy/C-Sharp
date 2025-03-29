@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Tabla_Multiplicar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40840C8F-73B5-4DA2-AD95-86C6184FEA90}|Tabla_Multiplicar\\Tabla_Multiplicar.csproj|c:\\users\\daniel\\desktop\\proyectos\\c-sharp\\tabla_multiplicar\\tabla_multiplicar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40840C8F-73B5-4DA2-AD95-86C6184FEA90}|Tabla_Multiplicar\\Tabla_Multiplicar.csproj|solutionrelative:tabla_multiplicar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40840C8F-73B5-4DA2-AD95-86C6184FEA90}|Tabla_Multiplicar\\Tabla_Multiplicar.csproj|c:\\users\\daniel\\desktop\\proyectos\\c-sharp\\tabla_multiplicar\\tabla_multiplicar\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{40840C8F-73B5-4DA2-AD95-86C6184FEA90}|Tabla_Multiplicar\\Tabla_Multiplicar.csproj|solutionrelative:tabla_multiplicar\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Tabla_Multiplicar\\Tabla_Multiplicar\\.gitignore",
+              "RelativeDocumentMoniker": "Tabla_Multiplicar\\.gitignore",
+              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Tabla_Multiplicar\\Tabla_Multiplicar\\.gitignore",
+              "RelativeToolTip": "Tabla_Multiplicar\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-29T20:59:27.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Tabla_Multiplicar\\Tabla_Multiplicar\\Program.cs",
+              "RelativeDocumentMoniker": "Tabla_Multiplicar\\Program.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Tabla_Multiplicar\\Tabla_Multiplicar\\Program.cs",
+              "RelativeToolTip": "Tabla_Multiplicar\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T20:48:35.019Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Right_Password\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE41E849-C8C4-4272-9DC9-AF555D0D92E7}|Right_Password\\Right_Password.csproj|c:\\users\\daniel\\desktop\\proyectos\\c-sharp\\right_password\\right_password\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE41E849-C8C4-4272-9DC9-AF555D0D92E7}|Right_Password\\Right_Password.csproj|solutionrelative:right_password\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE41E849-C8C4-4272-9DC9-AF555D0D92E7}|Right_Password\\Right_Password.csproj|c:\\users\\daniel\\desktop\\proyectos\\c-sharp\\right_password\\right_password\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{EE41E849-C8C4-4272-9DC9-AF555D0D92E7}|Right_Password\\Right_Password.csproj|solutionrelative:right_password\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Right_Password\\Right_Password\\.gitignore",
+              "RelativeDocumentMoniker": "Right_Password\\.gitignore",
+              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Right_Password\\Right_Password\\.gitignore",
+              "RelativeToolTip": "Right_Password\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-29T21:12:34.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Right_Password\\Right_Password\\Program.cs",
+              "RelativeDocumentMoniker": "Right_Password\\Program.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Right_Password\\Right_Password\\Program.cs",
+              "RelativeToolTip": "Right_Password\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T21:11:34.464Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
