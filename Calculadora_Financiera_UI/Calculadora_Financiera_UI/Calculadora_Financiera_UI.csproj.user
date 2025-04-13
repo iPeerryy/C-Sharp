@@ -1,6 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
+    <Compile Update="Interes Simple\CtrIeTaFormula.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Interes Simple\CtrIeTeFormula.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
     <Compile Update="Interes Simple\CtrInteresSimple.cs">
       <SubType>UserControl</SubType>
     </Compile>
@@ -12,6 +18,9 @@
     </Compile>
     <Compile Update="Form1.cs">
       <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Tiempo\CtrTiempoFormula.cs">
+      <SubType>UserControl</SubType>
     </Compile>
   </ItemGroup>
 </Project>

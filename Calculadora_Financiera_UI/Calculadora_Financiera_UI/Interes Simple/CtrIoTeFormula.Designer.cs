@@ -38,11 +38,12 @@
             txtResultado = new TextBox();
             txtFechaFinal = new TextBox();
             label4 = new Label();
+            label5 = new Label();
             SuspendLayout();
             // 
             // txtCapital
             // 
-            txtCapital.Location = new Point(20, 153);
+            txtCapital.Location = new Point(22, 201);
             txtCapital.Name = "txtCapital";
             txtCapital.Size = new Size(100, 23);
             txtCapital.TabIndex = 0;
@@ -51,7 +52,7 @@
             // label1
             // 
             label1.AutoSize = true;
-            label1.Location = new Point(45, 135);
+            label1.Location = new Point(45, 183);
             label1.Name = "label1";
             label1.Size = new Size(44, 15);
             label1.TabIndex = 1;
@@ -59,7 +60,7 @@
             // 
             // txtInteres
             // 
-            txtInteres.Location = new Point(183, 153);
+            txtInteres.Location = new Point(183, 201);
             txtInteres.Name = "txtInteres";
             txtInteres.Size = new Size(100, 23);
             txtInteres.TabIndex = 2;
@@ -67,7 +68,7 @@
             // label2
             // 
             label2.AutoSize = true;
-            label2.Location = new Point(183, 135);
+            label2.Location = new Point(183, 183);
             label2.Name = "label2";
             label2.Size = new Size(84, 15);
             label2.TabIndex = 3;
@@ -78,7 +79,7 @@
             // label3
             // 
             label3.AutoSize = true;
-            label3.Location = new Point(362, 135);
+            label3.Location = new Point(363, 183);
             label3.Name = "label3";
             label3.Size = new Size(72, 15);
             label3.TabIndex = 4;
@@ -87,14 +88,14 @@
             // 
             // txtFechaInicial
             // 
-            txtFechaInicial.Location = new Point(347, 153);
+            txtFechaInicial.Location = new Point(349, 201);
             txtFechaInicial.Name = "txtFechaInicial";
             txtFechaInicial.Size = new Size(100, 23);
             txtFechaInicial.TabIndex = 5;
             // 
             // button1
             // 
-            button1.Location = new Point(285, 275);
+            button1.Location = new Point(283, 308);
             button1.Name = "button1";
             button1.Size = new Size(75, 23);
             button1.TabIndex = 6;
@@ -105,7 +106,7 @@
             // txtResultado
             // 
             txtResultado.Font = new Font("Segoe UI", 21.75F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            txtResultado.Location = new Point(59, 12);
+            txtResultado.Location = new Point(35, 79);
             txtResultado.Multiline = true;
             txtResultado.Name = "txtResultado";
             txtResultado.Size = new Size(671, 81);
@@ -114,7 +115,7 @@
             // 
             // txtFechaFinal
             // 
-            txtFechaFinal.Location = new Point(504, 153);
+            txtFechaFinal.Location = new Point(503, 201);
             txtFechaFinal.Name = "txtFechaFinal";
             txtFechaFinal.Size = new Size(100, 23);
             txtFechaFinal.TabIndex = 8;
@@ -122,16 +123,27 @@
             // label4
             // 
             label4.AutoSize = true;
-            label4.Location = new Point(518, 135);
+            label4.Location = new Point(519, 183);
             label4.Name = "label4";
             label4.Size = new Size(66, 15);
             label4.TabIndex = 9;
             label4.Text = "Fecha Final";
             // 
-            // CtrIntresSimpleFormula
+            // label5
+            // 
+            label5.AutoSize = true;
+            label5.Font = new Font("Segoe UI", 21.75F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            label5.Location = new Point(158, 18);
+            label5.Name = "label5";
+            label5.Size = new Size(470, 40);
+            label5.TabIndex = 10;
+            label5.Text = "Interes Ordinario, Tiempo Exacto";
+            // 
+            // CtrIoTeFormula
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
+            Controls.Add(label5);
             Controls.Add(label4);
             Controls.Add(txtFechaFinal);
             Controls.Add(txtResultado);
@@ -142,7 +154,7 @@
             Controls.Add(txtInteres);
             Controls.Add(label1);
             Controls.Add(txtCapital);
-            Name = "CtrIntresSimpleFormula";
+            Name = "CtrIoTeFormula";
             Size = new Size(859, 612);
             Load += CtrIntresSimpleFormula_Load;
             ResumeLayout(false);
@@ -161,5 +173,6 @@
         private TextBox txtResultado;
         private TextBox txtFechaFinal;
         private Label label4;
+        private Label label5;
     }
 }

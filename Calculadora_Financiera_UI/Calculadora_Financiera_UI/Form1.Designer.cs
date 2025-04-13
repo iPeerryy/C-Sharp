@@ -62,6 +62,7 @@
             panelCalculadoraFinanciera.Name = "panelCalculadoraFinanciera";
             panelCalculadoraFinanciera.Size = new Size(800, 451);
             panelCalculadoraFinanciera.TabIndex = 3;
+            panelCalculadoraFinanciera.Paint += panelCalculadoraFinanciera_Paint;
             // 
             // Form1
             // 

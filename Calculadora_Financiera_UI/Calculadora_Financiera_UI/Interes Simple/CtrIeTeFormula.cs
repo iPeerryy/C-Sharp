@@ -11,20 +11,11 @@ using System.Windows.Forms;
 
 namespace Calculadora_Financiera_UI.Interes_Simple
 {
-    public partial class CtrIoTaFormula : CtrTiempoFormula
+    public partial class CtrIeTeFormula : CtrTiempoFormula
     {
-
-        private CtrIoTaFormula controlBase;
-        public CtrIoTaFormula()
+        public CtrIeTeFormula()
         {
             InitializeComponent();
-            CtrIoTeFormula ctrIoTeFormula = new CtrIoTeFormula();
-
-        }
-
-        private void CtrIoTaFormula_Load(object sender, EventArgs e)
-        {
-
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -36,12 +27,10 @@ namespace Calculadora_Financiera_UI.Interes_Simple
                     DateTime.TryParse(txtFechaInicial.Text, out DateTime fechaInicial) &&
                     DateTime.TryParse(txtFechaFinal.Text, out DateTime fechaFinal))
                 {
-                    double interes = capital * (tasa / 100) * (TiempoAproximado(fechaInicial, fechaFinal) / 360);
+                    double interes = capital * (tasa / 100) * (TiempoExacto(fechaInicial, fechaFinal) / 365);
                     double montoTotal = capital + interes;
 
                     txtResultado.Text = ("Interes Generado= " + interes);
-                     double juan = TiempoAproximado(fechaInicial, fechaFinal);
-                    MessageBox.Show("El tiempo es: " + juan);
                 }
                 else
                 {

@@ -4,17 +4,18 @@ namespace Calculadora_Financiera_UI
 {
     public partial class Form1 : Form
     {
-        
+
 
         public Form1()
         {
+            this.WindowState = FormWindowState.Maximized;
             InitializeComponent();
-            
+
         }
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            
+
         }
 
         private void panel1_Paint_1(object sender, PaintEventArgs e)
@@ -29,6 +30,11 @@ namespace Calculadora_Financiera_UI
             InteresSimpleMenu.Show();
             panelCalculadoraFinanciera.Controls.Add(InteresSimpleMenu);
             panelCalculadoraFinanciera.Visible = true;
+
+        }
+
+        private void panelCalculadoraFinanciera_Paint(object sender, PaintEventArgs e)
+        {
 
         }
     }

@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Calculadora_Financiera_UI.Tiempo;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -12,39 +13,8 @@ namespace Calculadora_Financiera_UI
 {
 
 
-    public partial class CtrIoTeFormula : UserControl
+    public partial class CtrIoTeFormula : CtrTiempoFormula
     {
-
-        public double TiempoOrdinario(DateTime fechaInicial, DateTime fechaFinal)
-        {
-            int años = fechaFinal.Year - fechaInicial.Year;
-            int meses = fechaFinal.Month - fechaInicial.Month;
-            int días = fechaFinal.Day - fechaInicial.Day;
-
-            // Ajustar si los días o meses son negativos
-            if (días < 0)
-            {
-                meses--;
-                días += 30;
-            }
-
-            if (meses < 0)
-            {
-                años--;
-                meses += 12;
-            }
-
-            return años + (meses / 12.0) + (días / 360.0);
-        }
-
-        public double TiempoExacto(DateTime fechaInicial, DateTime fechaFinal)
-        {
-            // TimeSpan representa un intervalo de tiempo
-            TimeSpan diferencia = fechaFinal - fechaInicial;
-
-            // Convertir el total de días a años
-            return diferencia.TotalDays;
-        }
 
         public CtrIoTeFormula()
         {

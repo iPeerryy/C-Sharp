@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Calculadora_Financiera_UI.Interes_Simple;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -21,6 +22,27 @@ namespace Calculadora_Financiera_UI
         {
             panelInteresSimple.Controls.Clear();
             CtrIoTeFormula intresSimpleFormula = new CtrIoTeFormula();
+            panelInteresSimple.Controls.Add(intresSimpleFormula);
+            panelInteresSimple.Visible = true;
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            panelInteresSimple.Controls.Clear();
+            CtrIoTaFormula intresSimpleFormula = new CtrIoTaFormula();
+            panelInteresSimple.Controls.Add(intresSimpleFormula);
+            panelInteresSimple.Visible = true;
+        }
+
+        private void panelInteresSimple_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void IeTaButton_Click(object sender, EventArgs e)
+        {
+            panelInteresSimple.Controls.Clear();
+            CtrIeTeFormula intresSimpleFormula = new CtrIeTeFormula();
             panelInteresSimple.Controls.Add(intresSimpleFormula);
             panelInteresSimple.Visible = true;
         }
