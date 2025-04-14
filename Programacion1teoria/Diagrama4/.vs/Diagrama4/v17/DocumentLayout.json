@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Programacion1teoria\\Diagrama4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{28BBA6A4-97D0-4CEB-9B38-86D296E52132}|Diagrama4\\Diagrama4.csproj|c:\\users\\daniel\\desktop\\proyectos\\c-sharp\\programacion1teoria\\diagrama4\\diagrama4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28BBA6A4-97D0-4CEB-9B38-86D296E52132}|Diagrama4\\Diagrama4.csproj|solutionrelative:diagrama4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Programacion1teoria\\Diagrama4\\Diagrama4\\Program.cs",
+              "RelativeDocumentMoniker": "Diagrama4\\Program.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Programacion1teoria\\Diagrama4\\Diagrama4\\Program.cs",
+              "RelativeToolTip": "Diagrama4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T21:45:40.511Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "diagrama3", "diagrama3\diagrama3.csproj", "{55E09061-0E2F-4FF0-A848-C90CC132FA6C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55E09061-0E2F-4FF0-A848-C90CC132FA6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55E09061-0E2F-4FF0-A848-C90CC132FA6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55E09061-0E2F-4FF0-A848-C90CC132FA6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55E09061-0E2F-4FF0-A848-C90CC132FA6C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE52AD20-51BD-4956-9E66-DAC489DB25C3}
+	EndGlobalSection
+EndGlobal

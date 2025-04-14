@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Programacion1teoria\\diagrama5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B0A871-2377-4F8A-BEE9-80A708028ACA}|diagrama5\\diagrama5.csproj|c:\\users\\daniel\\desktop\\proyectos\\c-sharp\\programacion1teoria\\diagrama5\\diagrama5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B0A871-2377-4F8A-BEE9-80A708028ACA}|diagrama5\\diagrama5.csproj|solutionrelative:diagrama5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B0A871-2377-4F8A-BEE9-80A708028ACA}|diagrama5\\diagrama5.csproj|c:\\users\\daniel\\desktop\\proyectos\\c-sharp\\programacion1teoria\\diagrama5\\diagrama5\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{B3B0A871-2377-4F8A-BEE9-80A708028ACA}|diagrama5\\diagrama5.csproj|solutionrelative:diagrama5\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Programacion1teoria\\diagrama5\\diagrama5\\.gitignore",
+              "RelativeDocumentMoniker": "diagrama5\\.gitignore",
+              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Programacion1teoria\\diagrama5\\diagrama5\\.gitignore",
+              "RelativeToolTip": "diagrama5\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-10T22:07:02.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Programacion1teoria\\diagrama5\\diagrama5\\Program.cs",
+              "RelativeDocumentMoniker": "diagrama5\\Program.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Programacion1teoria\\diagrama5\\diagrama5\\Program.cs",
+              "RelativeToolTip": "diagrama5\\Program.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAswBQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T21:51:20.804Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

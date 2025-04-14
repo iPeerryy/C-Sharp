@@ -1,4 +1,5 @@
-﻿namespace Calculadora_Financiera_UI
+﻿
+namespace Calculadora_Financiera_UI
 {
     partial class Form1
     {
@@ -31,12 +32,14 @@
             interesSimpleMenuButton = new Button();
             label1 = new Label();
             panelCalculadoraFinanciera = new Panel();
+            TiempoMenuButton = new Button();
+            label2 = new Label();
             panelCalculadoraFinanciera.SuspendLayout();
             SuspendLayout();
             // 
             // interesSimpleMenuButton
             // 
-            interesSimpleMenuButton.Location = new Point(22, 85);
+            interesSimpleMenuButton.Location = new Point(20, 106);
             interesSimpleMenuButton.Name = "interesSimpleMenuButton";
             interesSimpleMenuButton.Size = new Size(124, 39);
             interesSimpleMenuButton.TabIndex = 1;
@@ -56,6 +59,8 @@
             // 
             // panelCalculadoraFinanciera
             // 
+            panelCalculadoraFinanciera.Controls.Add(label2);
+            panelCalculadoraFinanciera.Controls.Add(TiempoMenuButton);
             panelCalculadoraFinanciera.Controls.Add(interesSimpleMenuButton);
             panelCalculadoraFinanciera.Controls.Add(label1);
             panelCalculadoraFinanciera.Location = new Point(2, 1);
@@ -63,6 +68,27 @@
             panelCalculadoraFinanciera.Size = new Size(800, 451);
             panelCalculadoraFinanciera.TabIndex = 3;
             panelCalculadoraFinanciera.Paint += panelCalculadoraFinanciera_Paint;
+            // 
+            // TiempoMenuButton
+            // 
+            TiempoMenuButton.Location = new Point(201, 106);
+            TiempoMenuButton.Name = "TiempoMenuButton";
+            TiempoMenuButton.Size = new Size(124, 39);
+            TiempoMenuButton.TabIndex = 3;
+            TiempoMenuButton.Text = "Tiempo";
+            TiempoMenuButton.UseVisualStyleBackColor = true;
+            TiempoMenuButton.Click += TiempoMenuButton_Click;
+            // 
+            // label2
+            // 
+            label2.AutoSize = true;
+            label2.Font = new Font("Segoe UI", 15.75F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            label2.Location = new Point(290, 42);
+            label2.Name = "label2";
+            label2.Size = new Size(204, 30);
+            label2.TabIndex = 4;
+            label2.Text = "Qué desea calcular?";
+            label2.Click += label2_Click;
             // 
             // Form1
             // 
@@ -78,9 +104,13 @@
             ResumeLayout(false);
         }
 
+        
+
         #endregion
         private Button interesSimpleMenuButton;
         private Label label1;
         private Panel panelCalculadoraFinanciera;
+        private Button TiempoMenuButton;
+        private Label label2;
     }
 }

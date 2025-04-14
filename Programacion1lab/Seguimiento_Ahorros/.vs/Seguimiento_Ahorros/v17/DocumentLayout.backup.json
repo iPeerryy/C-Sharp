@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Programacion1lab\\Seguimiento_Ahorros\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63D03EEE-81F7-485D-A1DA-3862CC08D9A2}|Seguimiento_Ahorros\\Seguimiento_Ahorros.csproj|c:\\users\\daniel\\desktop\\proyectos\\c-sharp\\programacion1lab\\seguimiento_ahorros\\seguimiento_ahorros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63D03EEE-81F7-485D-A1DA-3862CC08D9A2}|Seguimiento_Ahorros\\Seguimiento_Ahorros.csproj|solutionrelative:seguimiento_ahorros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63D03EEE-81F7-485D-A1DA-3862CC08D9A2}|Seguimiento_Ahorros\\Seguimiento_Ahorros.csproj|c:\\users\\daniel\\desktop\\proyectos\\c-sharp\\programacion1lab\\seguimiento_ahorros\\seguimiento_ahorros\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{63D03EEE-81F7-485D-A1DA-3862CC08D9A2}|Seguimiento_Ahorros\\Seguimiento_Ahorros.csproj|solutionrelative:seguimiento_ahorros\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Programacion1lab\\Seguimiento_Ahorros\\Seguimiento_Ahorros\\.gitignore",
+              "RelativeDocumentMoniker": "Seguimiento_Ahorros\\.gitignore",
+              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Programacion1lab\\Seguimiento_Ahorros\\Seguimiento_Ahorros\\.gitignore",
+              "RelativeToolTip": "Seguimiento_Ahorros\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-12T21:00:00.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Programacion1lab\\Seguimiento_Ahorros\\Seguimiento_Ahorros\\Program.cs",
+              "RelativeDocumentMoniker": "Seguimiento_Ahorros\\Program.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Programacion1lab\\Seguimiento_Ahorros\\Seguimiento_Ahorros\\Program.cs",
+              "RelativeToolTip": "Seguimiento_Ahorros\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T20:57:37.362Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

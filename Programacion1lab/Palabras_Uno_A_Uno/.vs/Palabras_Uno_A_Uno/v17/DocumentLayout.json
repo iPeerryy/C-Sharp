@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Palabras_Uno_A_Uno\\",
+  "WorkspaceRootPath": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Programacion1lab\\Palabras_Uno_A_Uno\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{930D486E-8088-4ED6-AD09-95E37AB15D66}|Palabras_Uno_A_Uno\\Palabras_Uno_A_Uno.csproj|c:\\users\\daniel\\desktop\\proyectos\\c-sharp\\palabras_uno_a_uno\\palabras_uno_a_uno\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{930D486E-8088-4ED6-AD09-95E37AB15D66}|Palabras_Uno_A_Uno\\Palabras_Uno_A_Uno.csproj|c:\\users\\daniel\\desktop\\proyectos\\c-sharp\\programacion1lab\\palabras_uno_a_uno\\palabras_uno_a_uno\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{930D486E-8088-4ED6-AD09-95E37AB15D66}|Palabras_Uno_A_Uno\\Palabras_Uno_A_Uno.csproj|solutionrelative:palabras_uno_a_uno\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{930D486E-8088-4ED6-AD09-95E37AB15D66}|Palabras_Uno_A_Uno\\Palabras_Uno_A_Uno.csproj|c:\\users\\daniel\\desktop\\proyectos\\c-sharp\\palabras_uno_a_uno\\palabras_uno_a_uno\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "AbsoluteMoniker": "D:0:0:{930D486E-8088-4ED6-AD09-95E37AB15D66}|Palabras_Uno_A_Uno\\Palabras_Uno_A_Uno.csproj|c:\\users\\daniel\\desktop\\proyectos\\c-sharp\\programacion1lab\\palabras_uno_a_uno\\palabras_uno_a_uno\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{930D486E-8088-4ED6-AD09-95E37AB15D66}|Palabras_Uno_A_Uno\\Palabras_Uno_A_Uno.csproj|solutionrelative:palabras_uno_a_uno\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
   ],
@@ -28,22 +28,21 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": ".gitignore",
-              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Palabras_Uno_A_Uno\\Palabras_Uno_A_Uno\\.gitignore",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Programacion1lab\\Palabras_Uno_A_Uno\\Palabras_Uno_A_Uno\\.gitignore",
               "RelativeDocumentMoniker": "Palabras_Uno_A_Uno\\.gitignore",
-              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Palabras_Uno_A_Uno\\Palabras_Uno_A_Uno\\.gitignore",
+              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Programacion1lab\\Palabras_Uno_A_Uno\\Palabras_Uno_A_Uno\\.gitignore",
               "RelativeToolTip": "Palabras_Uno_A_Uno\\.gitignore",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-03-29T21:16:16.014Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-29T21:16:16.014Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Palabras_Uno_A_Uno\\Palabras_Uno_A_Uno\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Programacion1lab\\Palabras_Uno_A_Uno\\Palabras_Uno_A_Uno\\Program.cs",
               "RelativeDocumentMoniker": "Palabras_Uno_A_Uno\\Program.cs",
-              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Palabras_Uno_A_Uno\\Palabras_Uno_A_Uno\\Program.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Programacion1lab\\Palabras_Uno_A_Uno\\Palabras_Uno_A_Uno\\Program.cs",
               "RelativeToolTip": "Palabras_Uno_A_Uno\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

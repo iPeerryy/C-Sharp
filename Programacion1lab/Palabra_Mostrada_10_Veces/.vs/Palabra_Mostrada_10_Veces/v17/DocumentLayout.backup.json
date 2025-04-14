@@ -1,10 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Palabra_Mostrada_10_Veces\\",
+  "WorkspaceRootPath": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Programacion1lab\\Palabra_Mostrada_10_Veces\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CEEC9D39-B389-42CE-B54B-284B05C0A65C}|Palabra_Mostrada_10_Veces\\Palabra_Mostrada_10_Veces.csproj|c:\\users\\daniel\\desktop\\proyectos\\c-sharp\\palabra_mostrada_10_veces\\palabra_mostrada_10_veces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CEEC9D39-B389-42CE-B54B-284B05C0A65C}|Palabra_Mostrada_10_Veces\\Palabra_Mostrada_10_Veces.csproj|c:\\users\\daniel\\desktop\\proyectos\\c-sharp\\programacion1lab\\palabra_mostrada_10_veces\\palabra_mostrada_10_veces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CEEC9D39-B389-42CE-B54B-284B05C0A65C}|Palabra_Mostrada_10_Veces\\Palabra_Mostrada_10_Veces.csproj|solutionrelative:palabra_mostrada_10_veces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEEC9D39-B389-42CE-B54B-284B05C0A65C}|Palabra_Mostrada_10_Veces\\Palabra_Mostrada_10_Veces.csproj|c:\\users\\daniel\\desktop\\proyectos\\c-sharp\\programacion1lab\\palabra_mostrada_10_veces\\palabra_mostrada_10_veces\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{CEEC9D39-B389-42CE-B54B-284B05C0A65C}|Palabra_Mostrada_10_Veces\\Palabra_Mostrada_10_Veces.csproj|solutionrelative:palabra_mostrada_10_veces\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,13 +26,26 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Programacion1lab\\Palabra_Mostrada_10_Veces\\Palabra_Mostrada_10_Veces\\.gitignore",
+              "RelativeDocumentMoniker": "Palabra_Mostrada_10_Veces\\.gitignore",
+              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Programacion1lab\\Palabra_Mostrada_10_Veces\\Palabra_Mostrada_10_Veces\\.gitignore",
+              "RelativeToolTip": "Palabra_Mostrada_10_Veces\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-29T20:32:00.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Palabra_Mostrada_10_Veces\\Palabra_Mostrada_10_Veces\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Programacion1lab\\Palabra_Mostrada_10_Veces\\Palabra_Mostrada_10_Veces\\Program.cs",
               "RelativeDocumentMoniker": "Palabra_Mostrada_10_Veces\\Program.cs",
-              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Palabra_Mostrada_10_Veces\\Palabra_Mostrada_10_Veces\\Program.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Programacion1lab\\Palabra_Mostrada_10_Veces\\Palabra_Mostrada_10_Veces\\Program.cs",
               "RelativeToolTip": "Palabra_Mostrada_10_Veces\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-29T20:31:08.697Z",
               "EditorCaption": ""

@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Programacion1lab\\Mercado_De_Frutas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94C7195A-57EB-4262-A780-AAAD95C6E385}|Mercado_De_Frutas\\Mercado_De_Frutas.csproj|c:\\users\\daniel\\desktop\\proyectos\\c-sharp\\programacion1lab\\mercado_de_frutas\\mercado_de_frutas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94C7195A-57EB-4262-A780-AAAD95C6E385}|Mercado_De_Frutas\\Mercado_De_Frutas.csproj|solutionrelative:mercado_de_frutas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94C7195A-57EB-4262-A780-AAAD95C6E385}|Mercado_De_Frutas\\Mercado_De_Frutas.csproj|c:\\users\\daniel\\desktop\\proyectos\\c-sharp\\programacion1lab\\mercado_de_frutas\\mercado_de_frutas\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{94C7195A-57EB-4262-A780-AAAD95C6E385}|Mercado_De_Frutas\\Mercado_De_Frutas.csproj|solutionrelative:mercado_de_frutas\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Programacion1lab\\Mercado_De_Frutas\\Mercado_De_Frutas\\.gitignore",
+              "RelativeDocumentMoniker": "Mercado_De_Frutas\\.gitignore",
+              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Programacion1lab\\Mercado_De_Frutas\\Mercado_De_Frutas\\.gitignore",
+              "RelativeToolTip": "Mercado_De_Frutas\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-12T20:34:59.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Programacion1lab\\Mercado_De_Frutas\\Mercado_De_Frutas\\Program.cs",
+              "RelativeDocumentMoniker": "Mercado_De_Frutas\\Program.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Programacion1lab\\Mercado_De_Frutas\\Mercado_De_Frutas\\Program.cs",
+              "RelativeToolTip": "Mercado_De_Frutas\\Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAIwEQAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T20:34:38.43Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

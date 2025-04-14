@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Impares_Exixtentes\\",
+  "WorkspaceRootPath": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Programacion1lab\\Impares_Exixtentes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{249B627B-083A-4857-9292-4766E3ED7F5A}|Impares_Exixtentes\\Impares_Exixtentes.csproj|c:\\users\\daniel\\desktop\\proyectos\\c-sharp\\impares_exixtentes\\impares_exixtentes\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{249B627B-083A-4857-9292-4766E3ED7F5A}|Impares_Exixtentes\\Impares_Exixtentes.csproj|solutionrelative:impares_exixtentes\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{249B627B-083A-4857-9292-4766E3ED7F5A}|Impares_Exixtentes\\Impares_Exixtentes.csproj|c:\\users\\daniel\\desktop\\proyectos\\c-sharp\\programacion1lab\\impares_exixtentes\\impares_exixtentes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{249B627B-083A-4857-9292-4766E3ED7F5A}|Impares_Exixtentes\\Impares_Exixtentes.csproj|solutionrelative:impares_exixtentes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{249B627B-083A-4857-9292-4766E3ED7F5A}|Impares_Exixtentes\\Impares_Exixtentes.csproj|c:\\users\\daniel\\desktop\\proyectos\\c-sharp\\impares_exixtentes\\impares_exixtentes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{249B627B-083A-4857-9292-4766E3ED7F5A}|Impares_Exixtentes\\Impares_Exixtentes.csproj|solutionrelative:impares_exixtentes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{249B627B-083A-4857-9292-4766E3ED7F5A}|Impares_Exixtentes\\Impares_Exixtentes.csproj|c:\\users\\daniel\\desktop\\proyectos\\c-sharp\\programacion1lab\\impares_exixtentes\\impares_exixtentes\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{249B627B-083A-4857-9292-4766E3ED7F5A}|Impares_Exixtentes\\Impares_Exixtentes.csproj|solutionrelative:impares_exixtentes\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,11 +26,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": ".gitignore",
-              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Impares_Exixtentes\\Impares_Exixtentes\\.gitignore",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Programacion1lab\\Impares_Exixtentes\\Impares_Exixtentes\\.gitignore",
               "RelativeDocumentMoniker": "Impares_Exixtentes\\.gitignore",
-              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Impares_Exixtentes\\Impares_Exixtentes\\.gitignore",
+              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Programacion1lab\\Impares_Exixtentes\\Impares_Exixtentes\\.gitignore",
               "RelativeToolTip": "Impares_Exixtentes\\.gitignore",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
@@ -39,11 +39,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Impares_Exixtentes\\Impares_Exixtentes\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Programacion1lab\\Impares_Exixtentes\\Impares_Exixtentes\\Program.cs",
               "RelativeDocumentMoniker": "Impares_Exixtentes\\Program.cs",
-              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Impares_Exixtentes\\Impares_Exixtentes\\Program.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Programacion1lab\\Impares_Exixtentes\\Impares_Exixtentes\\Program.cs",
               "RelativeToolTip": "Impares_Exixtentes\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

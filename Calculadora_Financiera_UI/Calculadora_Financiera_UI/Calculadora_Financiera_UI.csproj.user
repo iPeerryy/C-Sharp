@@ -1,25 +1,34 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <Compile Update="Interes Simple\CtrIeTaFormula.cs">
+    <Compile Update="UserControllers\Interes Simple\CtrIeTaFormula.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Update="Interes Simple\CtrIeTeFormula.cs">
+    <Compile Update="UserControllers\Interes Simple\CtrIeTeFormula.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Update="Interes Simple\CtrInteresSimple.cs">
+    <Compile Update="UserControllers\Interes Simple\CtrInteresSimple.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Update="Interes Simple\CtrIoTaFormula.cs">
+    <Compile Update="UserControllers\Interes Simple\CtrIoTaFormula.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Update="Interes Simple\CtrIoTeFormula.cs">
+    <Compile Update="UserControllers\Interes Simple\CtrIoTeFormula.cs">
       <SubType>UserControl</SubType>
     </Compile>
     <Compile Update="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="Tiempo\CtrTiempoFormula.cs">
+    <Compile Update="Métodos\CtrTiempoFormula.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControllers\Tiempo\CtrTiempoAproximadoFormula.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControllers\Tiempo\CtrTiempoExactoFormula.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControllers\Tiempo\CtrTiempoMenu.cs">
       <SubType>UserControl</SubType>
     </Compile>
   </ItemGroup>

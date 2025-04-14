@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Mostrar_Edad_Cumplida\\",
+  "WorkspaceRootPath": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Programacion1lab\\Mostrar_Edad_Cumplida\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D28204D3-EC36-45D5-9B47-84FB587E1D64}|Mostrar_Edad_Cumplida\\Mostrar_Edad_Cumplida.csproj|c:\\users\\daniel\\desktop\\proyectos\\c-sharp\\mostrar_edad_cumplida\\mostrar_edad_cumplida\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D28204D3-EC36-45D5-9B47-84FB587E1D64}|Mostrar_Edad_Cumplida\\Mostrar_Edad_Cumplida.csproj|c:\\users\\daniel\\desktop\\proyectos\\c-sharp\\programacion1lab\\mostrar_edad_cumplida\\mostrar_edad_cumplida\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D28204D3-EC36-45D5-9B47-84FB587E1D64}|Mostrar_Edad_Cumplida\\Mostrar_Edad_Cumplida.csproj|solutionrelative:mostrar_edad_cumplida\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D28204D3-EC36-45D5-9B47-84FB587E1D64}|Mostrar_Edad_Cumplida\\Mostrar_Edad_Cumplida.csproj|c:\\users\\daniel\\desktop\\proyectos\\c-sharp\\mostrar_edad_cumplida\\mostrar_edad_cumplida\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "AbsoluteMoniker": "D:0:0:{D28204D3-EC36-45D5-9B47-84FB587E1D64}|Mostrar_Edad_Cumplida\\Mostrar_Edad_Cumplida.csproj|c:\\users\\daniel\\desktop\\proyectos\\c-sharp\\programacion1lab\\mostrar_edad_cumplida\\mostrar_edad_cumplida\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{D28204D3-EC36-45D5-9B47-84FB587E1D64}|Mostrar_Edad_Cumplida\\Mostrar_Edad_Cumplida.csproj|solutionrelative:mostrar_edad_cumplida\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
   ],
@@ -28,22 +28,21 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": ".gitignore",
-              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Mostrar_Edad_Cumplida\\Mostrar_Edad_Cumplida\\.gitignore",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Programacion1lab\\Mostrar_Edad_Cumplida\\Mostrar_Edad_Cumplida\\.gitignore",
               "RelativeDocumentMoniker": "Mostrar_Edad_Cumplida\\.gitignore",
-              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Mostrar_Edad_Cumplida\\Mostrar_Edad_Cumplida\\.gitignore",
+              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Programacion1lab\\Mostrar_Edad_Cumplida\\Mostrar_Edad_Cumplida\\.gitignore",
               "RelativeToolTip": "Mostrar_Edad_Cumplida\\.gitignore",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-03-29T20:33:56.815Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-29T20:33:56.815Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Mostrar_Edad_Cumplida\\Mostrar_Edad_Cumplida\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Programacion1lab\\Mostrar_Edad_Cumplida\\Mostrar_Edad_Cumplida\\Program.cs",
               "RelativeDocumentMoniker": "Mostrar_Edad_Cumplida\\Program.cs",
-              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Mostrar_Edad_Cumplida\\Mostrar_Edad_Cumplida\\Program.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Programacion1lab\\Mostrar_Edad_Cumplida\\Mostrar_Edad_Cumplida\\Program.cs",
               "RelativeToolTip": "Mostrar_Edad_Cumplida\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

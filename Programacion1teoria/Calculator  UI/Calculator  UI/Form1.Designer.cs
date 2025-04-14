@@ -262,7 +262,7 @@ namespace Calculator__UI
             // 
             button15.BackColor = SystemColors.Control;
             button15.Font = new Font("Microsoft Sans Serif", 14.25F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            button15.Location = new Point(242, 361);
+            button15.Location = new Point(242, 358);
             button15.Name = "button15";
             button15.Size = new Size(107, 49);
             button15.TabIndex = 16;
