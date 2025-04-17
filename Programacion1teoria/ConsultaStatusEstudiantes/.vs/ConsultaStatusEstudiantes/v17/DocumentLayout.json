@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Programacion1teoria\\ConsultaStatusEstudiantes\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BB41F887-8059-43D8-9AA0-9509B6F8A4AF}|ConsultaStatusEstudiantes\\ConsultaStatusEstudiantes.csproj|c:\\users\\daniel\\desktop\\proyectos\\c-sharp\\programacion1teoria\\consultastatusestudiantes\\consultastatusestudiantes\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{BB41F887-8059-43D8-9AA0-9509B6F8A4AF}|ConsultaStatusEstudiantes\\ConsultaStatusEstudiantes.csproj|solutionrelative:consultastatusestudiantes\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BB41F887-8059-43D8-9AA0-9509B6F8A4AF}|ConsultaStatusEstudiantes\\ConsultaStatusEstudiantes.csproj|c:\\users\\daniel\\desktop\\proyectos\\c-sharp\\programacion1teoria\\consultastatusestudiantes\\consultastatusestudiantes\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BB41F887-8059-43D8-9AA0-9509B6F8A4AF}|ConsultaStatusEstudiantes\\ConsultaStatusEstudiantes.csproj|solutionrelative:consultastatusestudiantes\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -26,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,7 +38,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Programacion1teoria\\ConsultaStatusEstudiantes\\ConsultaStatusEstudiantes\\.gitignore",
+              "RelativeDocumentMoniker": "ConsultaStatusEstudiantes\\.gitignore",
+              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Programacion1teoria\\ConsultaStatusEstudiantes\\ConsultaStatusEstudiantes\\.gitignore",
+              "RelativeToolTip": "ConsultaStatusEstudiantes\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-17T04:48:41.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Programacion1teoria\\ConsultaStatusEstudiantes\\ConsultaStatusEstudiantes\\Form1.cs",
               "RelativeDocumentMoniker": "ConsultaStatusEstudiantes\\Form1.cs",
@@ -47,7 +64,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "DataBaseContext.cs",
               "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Programacion1teoria\\ConsultaStatusEstudiantes\\ConsultaStatusEstudiantes\\DataBaseContext.cs",
               "RelativeDocumentMoniker": "ConsultaStatusEstudiantes\\DataBaseContext.cs",
@@ -60,7 +77,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "AlmacenamientoSQLServer.cs",
               "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Programacion1teoria\\ConsultaStatusEstudiantes\\ConsultaStatusEstudiantes\\AlmacenamientoSQLServer.cs",
               "RelativeDocumentMoniker": "ConsultaStatusEstudiantes\\AlmacenamientoSQLServer.cs",
@@ -68,20 +85,18 @@
               "RelativeToolTip": "ConsultaStatusEstudiantes\\AlmacenamientoSQLServer.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T00:31:07.774Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-17T00:31:07.774Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Programacion1teoria\\ConsultaStatusEstudiantes\\ConsultaStatusEstudiantes\\Form1.cs",
               "RelativeDocumentMoniker": "ConsultaStatusEstudiantes\\Form1.cs",
               "ToolTip": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Programacion1teoria\\ConsultaStatusEstudiantes\\ConsultaStatusEstudiantes\\Form1.cs [Design]",
               "RelativeToolTip": "ConsultaStatusEstudiantes\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T17:03:10.947Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-04-16T17:03:10.947Z"
             }
           ]
         }
