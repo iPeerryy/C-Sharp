@@ -32,8 +32,10 @@ namespace Calculadora_Financiera_UI
             interesSimpleMenuButton = new Button();
             label1 = new Label();
             panelCalculadoraFinanciera = new Panel();
-            TiempoMenuButton = new Button();
+            button1 = new Button();
             label2 = new Label();
+            TiempoMenuButton = new Button();
+            backgroundWorker1 = new System.ComponentModel.BackgroundWorker();
             panelCalculadoraFinanciera.SuspendLayout();
             SuspendLayout();
             // 
@@ -59,6 +61,7 @@ namespace Calculadora_Financiera_UI
             // 
             // panelCalculadoraFinanciera
             // 
+            panelCalculadoraFinanciera.Controls.Add(button1);
             panelCalculadoraFinanciera.Controls.Add(label2);
             panelCalculadoraFinanciera.Controls.Add(TiempoMenuButton);
             panelCalculadoraFinanciera.Controls.Add(interesSimpleMenuButton);
@@ -69,15 +72,15 @@ namespace Calculadora_Financiera_UI
             panelCalculadoraFinanciera.TabIndex = 3;
             panelCalculadoraFinanciera.Paint += panelCalculadoraFinanciera_Paint;
             // 
-            // TiempoMenuButton
+            // button1
             // 
-            TiempoMenuButton.Location = new Point(201, 106);
-            TiempoMenuButton.Name = "TiempoMenuButton";
-            TiempoMenuButton.Size = new Size(124, 39);
-            TiempoMenuButton.TabIndex = 3;
-            TiempoMenuButton.Text = "Tiempo";
-            TiempoMenuButton.UseVisualStyleBackColor = true;
-            TiempoMenuButton.Click += TiempoMenuButton_Click;
+            button1.Location = new Point(370, 106);
+            button1.Name = "button1";
+            button1.Size = new Size(124, 39);
+            button1.TabIndex = 5;
+            button1.Text = "Descuento";
+            button1.UseVisualStyleBackColor = true;
+            button1.Click += button1_Click_2;
             // 
             // label2
             // 
@@ -89,6 +92,16 @@ namespace Calculadora_Financiera_UI
             label2.TabIndex = 4;
             label2.Text = "Qué desea calcular?";
             label2.Click += label2_Click;
+            // 
+            // TiempoMenuButton
+            // 
+            TiempoMenuButton.Location = new Point(201, 106);
+            TiempoMenuButton.Name = "TiempoMenuButton";
+            TiempoMenuButton.Size = new Size(124, 39);
+            TiempoMenuButton.TabIndex = 3;
+            TiempoMenuButton.Text = "Tiempo";
+            TiempoMenuButton.UseVisualStyleBackColor = true;
+            TiempoMenuButton.Click += TiempoMenuButton_Click;
             // 
             // Form1
             // 
@@ -104,7 +117,7 @@ namespace Calculadora_Financiera_UI
             ResumeLayout(false);
         }
 
-        
+
 
         #endregion
         private Button interesSimpleMenuButton;
@@ -112,5 +125,7 @@ namespace Calculadora_Financiera_UI
         private Panel panelCalculadoraFinanciera;
         private Button TiempoMenuButton;
         private Label label2;
+        private Button button1;
+        private System.ComponentModel.BackgroundWorker backgroundWorker1;
     }
 }

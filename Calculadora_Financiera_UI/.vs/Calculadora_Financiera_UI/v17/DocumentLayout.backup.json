@@ -3,48 +3,68 @@
   "WorkspaceRootPath": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Calculadora_Financiera_UI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E219E3B0-DF77-4D3C-9148-AF17F3E2722D}|Calculadora_Financiera_UI\\Calculadora_Financiera_UI.csproj|c:\\users\\daniel\\desktop\\proyectos\\c-sharp\\calculadora_financiera_ui\\calculadora_financiera_ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{E219E3B0-DF77-4D3C-9148-AF17F3E2722D}|Calculadora_Financiera_UI\\Calculadora_Financiera_UI.csproj|solutionrelative:calculadora_financiera_ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{E219E3B0-DF77-4D3C-9148-AF17F3E2722D}|Calculadora_Financiera_UI\\Calculadora_Financiera_UI.csproj|c:\\users\\daniel\\desktop\\proyectos\\c-sharp\\calculadora_financiera_ui\\calculadora_financiera_ui\\usercontrollers\\interes simple\\ctrcapitalformula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E219E3B0-DF77-4D3C-9148-AF17F3E2722D}|Calculadora_Financiera_UI\\Calculadora_Financiera_UI.csproj|solutionrelative:calculadora_financiera_ui\\usercontrollers\\interes simple\\ctrcapitalformula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E219E3B0-DF77-4D3C-9148-AF17F3E2722D}|Calculadora_Financiera_UI\\Calculadora_Financiera_UI.csproj|c:\\users\\daniel\\desktop\\proyectos\\c-sharp\\calculadora_financiera_ui\\calculadora_financiera_ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E219E3B0-DF77-4D3C-9148-AF17F3E2722D}|Calculadora_Financiera_UI\\Calculadora_Financiera_UI.csproj|solutionrelative:calculadora_financiera_ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E219E3B0-DF77-4D3C-9148-AF17F3E2722D}|Calculadora_Financiera_UI\\Calculadora_Financiera_UI.csproj|c:\\users\\daniel\\desktop\\proyectos\\c-sharp\\calculadora_financiera_ui\\calculadora_financiera_ui\\usercontrollers\\tiempo\\ctrtiempomenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{E219E3B0-DF77-4D3C-9148-AF17F3E2722D}|Calculadora_Financiera_UI\\Calculadora_Financiera_UI.csproj|solutionrelative:calculadora_financiera_ui\\usercontrollers\\tiempo\\ctrtiempomenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E219E3B0-DF77-4D3C-9148-AF17F3E2722D}|Calculadora_Financiera_UI\\Calculadora_Financiera_UI.csproj|c:\\users\\daniel\\desktop\\proyectos\\c-sharp\\calculadora_financiera_ui\\calculadora_financiera_ui\\usercontrollers\\tiempo\\ctrtiempoaproximadoformula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{E219E3B0-DF77-4D3C-9148-AF17F3E2722D}|Calculadora_Financiera_UI\\Calculadora_Financiera_UI.csproj|solutionrelative:calculadora_financiera_ui\\usercontrollers\\tiempo\\ctrtiempoaproximadoformula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E219E3B0-DF77-4D3C-9148-AF17F3E2722D}|Calculadora_Financiera_UI\\Calculadora_Financiera_UI.csproj|c:\\users\\daniel\\desktop\\proyectos\\c-sharp\\calculadora_financiera_ui\\calculadora_financiera_ui\\usercontrollers\\interes simple\\ctrietaformula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E219E3B0-DF77-4D3C-9148-AF17F3E2722D}|Calculadora_Financiera_UI\\Calculadora_Financiera_UI.csproj|solutionrelative:calculadora_financiera_ui\\usercontrollers\\interes simple\\ctrietaformula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E219E3B0-DF77-4D3C-9148-AF17F3E2722D}|Calculadora_Financiera_UI\\Calculadora_Financiera_UI.csproj|c:\\users\\daniel\\desktop\\proyectos\\c-sharp\\calculadora_financiera_ui\\calculadora_financiera_ui\\usercontrollers\\interes simple\\ctrietaformula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{E219E3B0-DF77-4D3C-9148-AF17F3E2722D}|Calculadora_Financiera_UI\\Calculadora_Financiera_UI.csproj|solutionrelative:calculadora_financiera_ui\\usercontrollers\\interes simple\\ctrietaformula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E219E3B0-DF77-4D3C-9148-AF17F3E2722D}|Calculadora_Financiera_UI\\Calculadora_Financiera_UI.csproj|c:\\users\\daniel\\desktop\\proyectos\\c-sharp\\calculadora_financiera_ui\\calculadora_financiera_ui\\m\u00E9todos\\ctrnavegador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E219E3B0-DF77-4D3C-9148-AF17F3E2722D}|Calculadora_Financiera_UI\\Calculadora_Financiera_UI.csproj|solutionrelative:calculadora_financiera_ui\\m\u00E9todos\\ctrnavegador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E219E3B0-DF77-4D3C-9148-AF17F3E2722D}|Calculadora_Financiera_UI\\Calculadora_Financiera_UI.csproj|c:\\users\\daniel\\desktop\\proyectos\\c-sharp\\calculadora_financiera_ui\\calculadora_financiera_ui\\usercontrollers\\interes simple\\ctrcapitalformula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E219E3B0-DF77-4D3C-9148-AF17F3E2722D}|Calculadora_Financiera_UI\\Calculadora_Financiera_UI.csproj|solutionrelative:calculadora_financiera_ui\\usercontrollers\\interes simple\\ctrcapitalformula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E219E3B0-DF77-4D3C-9148-AF17F3E2722D}|Calculadora_Financiera_UI\\Calculadora_Financiera_UI.csproj|c:\\users\\daniel\\desktop\\proyectos\\c-sharp\\calculadora_financiera_ui\\calculadora_financiera_ui\\usercontrollers\\interes simple\\ctrinteressimple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E219E3B0-DF77-4D3C-9148-AF17F3E2722D}|Calculadora_Financiera_UI\\Calculadora_Financiera_UI.csproj|solutionrelative:calculadora_financiera_ui\\usercontrollers\\interes simple\\ctrinteressimple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E219E3B0-DF77-4D3C-9148-AF17F3E2722D}|Calculadora_Financiera_UI\\Calculadora_Financiera_UI.csproj|c:\\users\\daniel\\desktop\\proyectos\\c-sharp\\calculadora_financiera_ui\\calculadora_financiera_ui\\usercontrollers\\tiempo\\ctrtiempomenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E219E3B0-DF77-4D3C-9148-AF17F3E2722D}|Calculadora_Financiera_UI\\Calculadora_Financiera_UI.csproj|solutionrelative:calculadora_financiera_ui\\usercontrollers\\tiempo\\ctrtiempomenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E219E3B0-DF77-4D3C-9148-AF17F3E2722D}|Calculadora_Financiera_UI\\Calculadora_Financiera_UI.csproj|c:\\users\\daniel\\desktop\\proyectos\\c-sharp\\calculadora_financiera_ui\\calculadora_financiera_ui\\usercontrollers\\tiempo\\ctrtiempoaproximadoformula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E219E3B0-DF77-4D3C-9148-AF17F3E2722D}|Calculadora_Financiera_UI\\Calculadora_Financiera_UI.csproj|solutionrelative:calculadora_financiera_ui\\usercontrollers\\tiempo\\ctrtiempoaproximadoformula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E219E3B0-DF77-4D3C-9148-AF17F3E2722D}|Calculadora_Financiera_UI\\Calculadora_Financiera_UI.csproj|c:\\users\\daniel\\desktop\\proyectos\\c-sharp\\calculadora_financiera_ui\\calculadora_financiera_ui\\usercontrollers\\interes simple\\ctrmontoformula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E219E3B0-DF77-4D3C-9148-AF17F3E2722D}|Calculadora_Financiera_UI\\Calculadora_Financiera_UI.csproj|solutionrelative:calculadora_financiera_ui\\usercontrollers\\interes simple\\ctrmontoformula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E219E3B0-DF77-4D3C-9148-AF17F3E2722D}|Calculadora_Financiera_UI\\Calculadora_Financiera_UI.csproj|C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Calculadora_Financiera_UI\\calculadora_financiera_ui\\usercontrollers\\tiempo\\ctrtiempomenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E219E3B0-DF77-4D3C-9148-AF17F3E2722D}|Calculadora_Financiera_UI\\Calculadora_Financiera_UI.csproj|solutionrelative:calculadora_financiera_ui\\usercontrollers\\tiempo\\ctrtiempomenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E219E3B0-DF77-4D3C-9148-AF17F3E2722D}|Calculadora_Financiera_UI\\Calculadora_Financiera_UI.csproj|C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Calculadora_Financiera_UI\\calculadora_financiera_ui\\usercontrollers\\tiempo\\ctrtiempoexactoformula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E219E3B0-DF77-4D3C-9148-AF17F3E2722D}|Calculadora_Financiera_UI\\Calculadora_Financiera_UI.csproj|solutionrelative:calculadora_financiera_ui\\usercontrollers\\tiempo\\ctrtiempoexactoformula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E219E3B0-DF77-4D3C-9148-AF17F3E2722D}|Calculadora_Financiera_UI\\Calculadora_Financiera_UI.csproj|c:\\users\\daniel\\desktop\\proyectos\\c-sharp\\calculadora_financiera_ui\\calculadora_financiera_ui\\usercontrollers\\tiempo\\ctrtiempoaproximadoformula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E219E3B0-DF77-4D3C-9148-AF17F3E2722D}|Calculadora_Financiera_UI\\Calculadora_Financiera_UI.csproj|solutionrelative:calculadora_financiera_ui\\usercontrollers\\tiempo\\ctrtiempoaproximadoformula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E219E3B0-DF77-4D3C-9148-AF17F3E2722D}|Calculadora_Financiera_UI\\Calculadora_Financiera_UI.csproj|c:\\users\\daniel\\desktop\\proyectos\\c-sharp\\calculadora_financiera_ui\\calculadora_financiera_ui\\usercontrollers\\descuento\\ctrdescuento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E219E3B0-DF77-4D3C-9148-AF17F3E2722D}|Calculadora_Financiera_UI\\Calculadora_Financiera_UI.csproj|solutionrelative:calculadora_financiera_ui\\usercontrollers\\descuento\\ctrdescuento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E219E3B0-DF77-4D3C-9148-AF17F3E2722D}|Calculadora_Financiera_UI\\Calculadora_Financiera_UI.csproj|c:\\users\\daniel\\desktop\\proyectos\\c-sharp\\calculadora_financiera_ui\\calculadora_financiera_ui\\usercontrollers\\interes simple\\ctrioteformula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E219E3B0-DF77-4D3C-9148-AF17F3E2722D}|Calculadora_Financiera_UI\\Calculadora_Financiera_UI.csproj|solutionrelative:calculadora_financiera_ui\\usercontrollers\\interes simple\\ctrioteformula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E219E3B0-DF77-4D3C-9148-AF17F3E2722D}|Calculadora_Financiera_UI\\Calculadora_Financiera_UI.csproj|c:\\users\\daniel\\desktop\\proyectos\\c-sharp\\calculadora_financiera_ui\\calculadora_financiera_ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E219E3B0-DF77-4D3C-9148-AF17F3E2722D}|Calculadora_Financiera_UI\\Calculadora_Financiera_UI.csproj|solutionrelative:calculadora_financiera_ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E219E3B0-DF77-4D3C-9148-AF17F3E2722D}|Calculadora_Financiera_UI\\Calculadora_Financiera_UI.csproj|c:\\users\\daniel\\desktop\\proyectos\\c-sharp\\calculadora_financiera_ui\\calculadora_financiera_ui\\usercontrollers\\descuento\\ctrdescuento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E219E3B0-DF77-4D3C-9148-AF17F3E2722D}|Calculadora_Financiera_UI\\Calculadora_Financiera_UI.csproj|solutionrelative:calculadora_financiera_ui\\usercontrollers\\descuento\\ctrdescuento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E219E3B0-DF77-4D3C-9148-AF17F3E2722D}|Calculadora_Financiera_UI\\Calculadora_Financiera_UI.csproj|c:\\users\\daniel\\desktop\\proyectos\\c-sharp\\calculadora_financiera_ui\\calculadora_financiera_ui\\usercontrollers\\descuento\\ctrtasadescuentoformula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E219E3B0-DF77-4D3C-9148-AF17F3E2722D}|Calculadora_Financiera_UI\\Calculadora_Financiera_UI.csproj|solutionrelative:calculadora_financiera_ui\\usercontrollers\\descuento\\ctrtasadescuentoformula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E219E3B0-DF77-4D3C-9148-AF17F3E2722D}|Calculadora_Financiera_UI\\Calculadora_Financiera_UI.csproj|c:\\users\\daniel\\desktop\\proyectos\\c-sharp\\calculadora_financiera_ui\\calculadora_financiera_ui\\usercontrollers\\descuento\\ctrvalordescontadoformula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E219E3B0-DF77-4D3C-9148-AF17F3E2722D}|Calculadora_Financiera_UI\\Calculadora_Financiera_UI.csproj|solutionrelative:calculadora_financiera_ui\\usercontrollers\\descuento\\ctrvalordescontadoformula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E219E3B0-DF77-4D3C-9148-AF17F3E2722D}|Calculadora_Financiera_UI\\Calculadora_Financiera_UI.csproj|c:\\users\\daniel\\desktop\\proyectos\\c-sharp\\calculadora_financiera_ui\\calculadora_financiera_ui\\usercontrollers\\descuento\\ctrvalordescontadoformula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E219E3B0-DF77-4D3C-9148-AF17F3E2722D}|Calculadora_Financiera_UI\\Calculadora_Financiera_UI.csproj|solutionrelative:calculadora_financiera_ui\\usercontrollers\\descuento\\ctrvalordescontadoformula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E219E3B0-DF77-4D3C-9148-AF17F3E2722D}|Calculadora_Financiera_UI\\Calculadora_Financiera_UI.csproj|c:\\users\\daniel\\desktop\\proyectos\\c-sharp\\calculadora_financiera_ui\\calculadora_financiera_ui\\usercontrollers\\descuento\\ctrdescuentoformula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E219E3B0-DF77-4D3C-9148-AF17F3E2722D}|Calculadora_Financiera_UI\\Calculadora_Financiera_UI.csproj|solutionrelative:calculadora_financiera_ui\\usercontrollers\\descuento\\ctrdescuentoformula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E219E3B0-DF77-4D3C-9148-AF17F3E2722D}|Calculadora_Financiera_UI\\Calculadora_Financiera_UI.csproj|c:\\users\\daniel\\desktop\\proyectos\\c-sharp\\calculadora_financiera_ui\\calculadora_financiera_ui\\usercontrollers\\descuento\\ctrdescuentoformula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E219E3B0-DF77-4D3C-9148-AF17F3E2722D}|Calculadora_Financiera_UI\\Calculadora_Financiera_UI.csproj|solutionrelative:calculadora_financiera_ui\\usercontrollers\\descuento\\ctrdescuentoformula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,7 +74,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,16 +82,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CtrNavegador.cs",
-              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Calculadora_Financiera_UI\\Calculadora_Financiera_UI\\M\u00E9todos\\CtrNavegador.cs",
-              "RelativeDocumentMoniker": "Calculadora_Financiera_UI\\M\u00E9todos\\CtrNavegador.cs",
-              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Calculadora_Financiera_UI\\Calculadora_Financiera_UI\\M\u00E9todos\\CtrNavegador.cs",
-              "RelativeToolTip": "Calculadora_Financiera_UI\\M\u00E9todos\\CtrNavegador.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAANAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "CtrCapitalFormula.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Calculadora_Financiera_UI\\Calculadora_Financiera_UI\\UserControllers\\Interes Simple\\CtrCapitalFormula.cs",
+              "RelativeDocumentMoniker": "Calculadora_Financiera_UI\\UserControllers\\Interes Simple\\CtrCapitalFormula.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Calculadora_Financiera_UI\\Calculadora_Financiera_UI\\UserControllers\\Interes Simple\\CtrCapitalFormula.cs",
+              "RelativeToolTip": "Calculadora_Financiera_UI\\UserControllers\\Interes Simple\\CtrCapitalFormula.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCYAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T17:17:04.041Z",
+              "WhenOpened": "2025-04-21T21:15:40.534Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CtrInteresSimple.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Calculadora_Financiera_UI\\Calculadora_Financiera_UI\\UserControllers\\Interes Simple\\CtrInteresSimple.cs",
+              "RelativeDocumentMoniker": "Calculadora_Financiera_UI\\UserControllers\\Interes Simple\\CtrInteresSimple.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Calculadora_Financiera_UI\\Calculadora_Financiera_UI\\UserControllers\\Interes Simple\\CtrInteresSimple.cs [Design]",
+              "RelativeToolTip": "Calculadora_Financiera_UI\\UserControllers\\Interes Simple\\CtrInteresSimple.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T21:09:52.932Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
@@ -82,99 +114,36 @@
               "ToolTip": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Calculadora_Financiera_UI\\Calculadora_Financiera_UI\\UserControllers\\Tiempo\\CtrTiempoAproximadoFormula.cs [Design]",
               "RelativeToolTip": "Calculadora_Financiera_UI\\UserControllers\\Tiempo\\CtrTiempoAproximadoFormula.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T16:36:59.685Z",
+              "WhenOpened": "2025-04-21T21:04:42.089Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "CtrIeTaFormula.cs",
-              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Calculadora_Financiera_UI\\Calculadora_Financiera_UI\\UserControllers\\Interes Simple\\CtrIeTaFormula.cs",
-              "RelativeDocumentMoniker": "Calculadora_Financiera_UI\\UserControllers\\Interes Simple\\CtrIeTaFormula.cs",
-              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Calculadora_Financiera_UI\\Calculadora_Financiera_UI\\UserControllers\\Interes Simple\\CtrIeTaFormula.cs",
-              "RelativeToolTip": "Calculadora_Financiera_UI\\UserControllers\\Interes Simple\\CtrIeTaFormula.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAUwCkAAABkAAAAAAAAAA==",
+              "Title": "CtrMontoFormula.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Calculadora_Financiera_UI\\Calculadora_Financiera_UI\\UserControllers\\Interes Simple\\CtrMontoFormula.cs",
+              "RelativeDocumentMoniker": "Calculadora_Financiera_UI\\UserControllers\\Interes Simple\\CtrMontoFormula.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Calculadora_Financiera_UI\\Calculadora_Financiera_UI\\UserControllers\\Interes Simple\\CtrMontoFormula.cs [Design]",
+              "RelativeToolTip": "Calculadora_Financiera_UI\\UserControllers\\Interes Simple\\CtrMontoFormula.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T16:18:38.923Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CtrIeTaFormula.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Calculadora_Financiera_UI\\Calculadora_Financiera_UI\\UserControllers\\Interes Simple\\CtrIeTaFormula.cs",
-              "RelativeDocumentMoniker": "Calculadora_Financiera_UI\\UserControllers\\Interes Simple\\CtrIeTaFormula.cs",
-              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Calculadora_Financiera_UI\\Calculadora_Financiera_UI\\UserControllers\\Interes Simple\\CtrIeTaFormula.cs [Design]",
-              "RelativeToolTip": "Calculadora_Financiera_UI\\UserControllers\\Interes Simple\\CtrIeTaFormula.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T16:18:37.563Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CtrTiempoMenu.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Calculadora_Financiera_UI\\Calculadora_Financiera_UI\\UserControllers\\Tiempo\\CtrTiempoMenu.cs",
-              "RelativeDocumentMoniker": "Calculadora_Financiera_UI\\UserControllers\\Tiempo\\CtrTiempoMenu.cs",
-              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Calculadora_Financiera_UI\\Calculadora_Financiera_UI\\UserControllers\\Tiempo\\CtrTiempoMenu.cs [Design]",
-              "RelativeToolTip": "Calculadora_Financiera_UI\\UserControllers\\Tiempo\\CtrTiempoMenu.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T02:10:52.248Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Calculadora_Financiera_UI\\Calculadora_Financiera_UI\\Form1.cs",
-              "RelativeDocumentMoniker": "Calculadora_Financiera_UI\\Form1.cs",
-              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Calculadora_Financiera_UI\\Calculadora_Financiera_UI\\Form1.cs [Design]",
-              "RelativeToolTip": "Calculadora_Financiera_UI\\Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T16:29:40.129Z",
+              "WhenOpened": "2025-04-21T21:03:26.769Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Calculadora_Financiera_UI\\Calculadora_Financiera_UI\\Form1.cs",
-              "RelativeDocumentMoniker": "Calculadora_Financiera_UI\\Form1.cs",
-              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Calculadora_Financiera_UI\\Calculadora_Financiera_UI\\Form1.cs",
-              "RelativeToolTip": "Calculadora_Financiera_UI\\Form1.cs",
-              "ViewState": "AgIAAEcAAAAAAAAAAAAcwFMAAAAJAAAAAAAAAA==",
+              "Title": "CtrCapitalFormula.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Calculadora_Financiera_UI\\Calculadora_Financiera_UI\\UserControllers\\Interes Simple\\CtrCapitalFormula.cs",
+              "RelativeDocumentMoniker": "Calculadora_Financiera_UI\\UserControllers\\Interes Simple\\CtrCapitalFormula.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Calculadora_Financiera_UI\\Calculadora_Financiera_UI\\UserControllers\\Interes Simple\\CtrCapitalFormula.cs [Design]",
+              "RelativeToolTip": "Calculadora_Financiera_UI\\UserControllers\\Interes Simple\\CtrCapitalFormula.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T02:57:47.787Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CtrInteresSimple.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Calculadora_Financiera_UI\\Calculadora_Financiera_UI\\UserControllers\\Interes Simple\\CtrInteresSimple.cs",
-              "RelativeDocumentMoniker": "Calculadora_Financiera_UI\\UserControllers\\Interes Simple\\CtrInteresSimple.cs",
-              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Calculadora_Financiera_UI\\Calculadora_Financiera_UI\\UserControllers\\Interes Simple\\CtrInteresSimple.cs [Design]",
-              "RelativeToolTip": "Calculadora_Financiera_UI\\UserControllers\\Interes Simple\\CtrInteresSimple.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T17:15:03.745Z",
+              "WhenOpened": "2025-04-21T21:03:23.719Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "CtrTiempoMenu.cs",
-              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Calculadora_Financiera_UI\\Calculadora_Financiera_UI\\UserControllers\\Tiempo\\CtrTiempoMenu.cs",
-              "RelativeDocumentMoniker": "Calculadora_Financiera_UI\\UserControllers\\Tiempo\\CtrTiempoMenu.cs",
-              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Calculadora_Financiera_UI\\Calculadora_Financiera_UI\\UserControllers\\Tiempo\\CtrTiempoMenu.cs",
-              "RelativeToolTip": "Calculadora_Financiera_UI\\UserControllers\\Tiempo\\CtrTiempoMenu.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAowBoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T16:27:13.653Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 6,
               "Title": "CtrTiempoExactoFormula.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Calculadora_Financiera_UI\\Calculadora_Financiera_UI\\UserControllers\\Tiempo\\CtrTiempoExactoFormula.cs",
               "RelativeDocumentMoniker": "Calculadora_Financiera_UI\\UserControllers\\Tiempo\\CtrTiempoExactoFormula.cs",
@@ -186,15 +155,126 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "CtrTiempoAproximadoFormula.cs",
-              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Calculadora_Financiera_UI\\Calculadora_Financiera_UI\\UserControllers\\Tiempo\\CtrTiempoAproximadoFormula.cs",
-              "RelativeDocumentMoniker": "Calculadora_Financiera_UI\\UserControllers\\Tiempo\\CtrTiempoAproximadoFormula.cs",
-              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Calculadora_Financiera_UI\\Calculadora_Financiera_UI\\UserControllers\\Tiempo\\CtrTiempoAproximadoFormula.cs",
-              "RelativeToolTip": "Calculadora_Financiera_UI\\UserControllers\\Tiempo\\CtrTiempoAproximadoFormula.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAUAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "CtrTiempoMenu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Calculadora_Financiera_UI\\Calculadora_Financiera_UI\\UserControllers\\Tiempo\\CtrTiempoMenu.cs",
+              "RelativeDocumentMoniker": "Calculadora_Financiera_UI\\UserControllers\\Tiempo\\CtrTiempoMenu.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Calculadora_Financiera_UI\\Calculadora_Financiera_UI\\UserControllers\\Tiempo\\CtrTiempoMenu.cs [Design]",
+              "RelativeToolTip": "Calculadora_Financiera_UI\\UserControllers\\Tiempo\\CtrTiempoMenu.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T16:38:54.595Z",
+              "WhenOpened": "2025-04-14T02:10:52.248Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CtrIoTeFormula.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Calculadora_Financiera_UI\\Calculadora_Financiera_UI\\UserControllers\\Interes Simple\\CtrIoTeFormula.cs",
+              "RelativeDocumentMoniker": "Calculadora_Financiera_UI\\UserControllers\\Interes Simple\\CtrIoTeFormula.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Calculadora_Financiera_UI\\Calculadora_Financiera_UI\\UserControllers\\Interes Simple\\CtrIoTeFormula.cs [Design]",
+              "RelativeToolTip": "Calculadora_Financiera_UI\\UserControllers\\Interes Simple\\CtrIoTeFormula.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T21:03:19.869Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Calculadora_Financiera_UI\\Calculadora_Financiera_UI\\Form1.cs",
+              "RelativeDocumentMoniker": "Calculadora_Financiera_UI\\Form1.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Calculadora_Financiera_UI\\Calculadora_Financiera_UI\\Form1.cs [Design]",
+              "RelativeToolTip": "Calculadora_Financiera_UI\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T21:01:24.565Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CtrDescuento.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Calculadora_Financiera_UI\\Calculadora_Financiera_UI\\UserControllers\\Descuento\\CtrDescuento.cs",
+              "RelativeDocumentMoniker": "Calculadora_Financiera_UI\\UserControllers\\Descuento\\CtrDescuento.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Calculadora_Financiera_UI\\Calculadora_Financiera_UI\\UserControllers\\Descuento\\CtrDescuento.cs",
+              "RelativeToolTip": "Calculadora_Financiera_UI\\UserControllers\\Descuento\\CtrDescuento.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwDIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T20:15:32.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CtrDescuento.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Calculadora_Financiera_UI\\Calculadora_Financiera_UI\\UserControllers\\Descuento\\CtrDescuento.cs",
+              "RelativeDocumentMoniker": "Calculadora_Financiera_UI\\UserControllers\\Descuento\\CtrDescuento.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Calculadora_Financiera_UI\\Calculadora_Financiera_UI\\UserControllers\\Descuento\\CtrDescuento.cs [Design]",
+              "RelativeToolTip": "Calculadora_Financiera_UI\\UserControllers\\Descuento\\CtrDescuento.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T17:06:05.017Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CtrValorDescontadoFormula.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Calculadora_Financiera_UI\\Calculadora_Financiera_UI\\UserControllers\\Descuento\\CtrValorDescontadoFormula.cs",
+              "RelativeDocumentMoniker": "Calculadora_Financiera_UI\\UserControllers\\Descuento\\CtrValorDescontadoFormula.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Calculadora_Financiera_UI\\Calculadora_Financiera_UI\\UserControllers\\Descuento\\CtrValorDescontadoFormula.cs [Design]",
+              "RelativeToolTip": "Calculadora_Financiera_UI\\UserControllers\\Descuento\\CtrValorDescontadoFormula.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T20:06:06.682Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CtrTasaDescuentoFormula.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Calculadora_Financiera_UI\\Calculadora_Financiera_UI\\UserControllers\\Descuento\\CtrTasaDescuentoFormula.cs",
+              "RelativeDocumentMoniker": "Calculadora_Financiera_UI\\UserControllers\\Descuento\\CtrTasaDescuentoFormula.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Calculadora_Financiera_UI\\Calculadora_Financiera_UI\\UserControllers\\Descuento\\CtrTasaDescuentoFormula.cs",
+              "RelativeToolTip": "Calculadora_Financiera_UI\\UserControllers\\Descuento\\CtrTasaDescuentoFormula.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwB4AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T19:26:24.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CtrDescuentoFormula.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Calculadora_Financiera_UI\\Calculadora_Financiera_UI\\UserControllers\\Descuento\\CtrDescuentoFormula.cs",
+              "RelativeDocumentMoniker": "Calculadora_Financiera_UI\\UserControllers\\Descuento\\CtrDescuentoFormula.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Calculadora_Financiera_UI\\Calculadora_Financiera_UI\\UserControllers\\Descuento\\CtrDescuentoFormula.cs",
+              "RelativeToolTip": "Calculadora_Financiera_UI\\UserControllers\\Descuento\\CtrDescuentoFormula.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA0wCoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T19:18:40.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CtrDescuentoFormula.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Calculadora_Financiera_UI\\Calculadora_Financiera_UI\\UserControllers\\Descuento\\CtrDescuentoFormula.cs",
+              "RelativeDocumentMoniker": "Calculadora_Financiera_UI\\UserControllers\\Descuento\\CtrDescuentoFormula.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Calculadora_Financiera_UI\\Calculadora_Financiera_UI\\UserControllers\\Descuento\\CtrDescuentoFormula.cs [Design]",
+              "RelativeToolTip": "Calculadora_Financiera_UI\\UserControllers\\Descuento\\CtrDescuentoFormula.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T19:02:41.695Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CtrValorDescontadoFormula.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Calculadora_Financiera_UI\\Calculadora_Financiera_UI\\UserControllers\\Descuento\\CtrValorDescontadoFormula.cs",
+              "RelativeDocumentMoniker": "Calculadora_Financiera_UI\\UserControllers\\Descuento\\CtrValorDescontadoFormula.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Calculadora_Financiera_UI\\Calculadora_Financiera_UI\\UserControllers\\Descuento\\CtrValorDescontadoFormula.cs",
+              "RelativeToolTip": "Calculadora_Financiera_UI\\UserControllers\\Descuento\\CtrValorDescontadoFormula.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCIAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T20:06:30.216Z",
               "EditorCaption": ""
             }
           ]

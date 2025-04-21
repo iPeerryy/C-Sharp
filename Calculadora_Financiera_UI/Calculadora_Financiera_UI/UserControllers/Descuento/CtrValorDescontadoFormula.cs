@@ -9,32 +9,36 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Calculadora_Financiera_UI.Interes_Simple
+namespace Calculadora_Financiera_UI.UserControllers.Descuento
 {
-    public partial class CtrIeTeFormula : CtrTiempoFormula
+    public partial class CtrValorDescontadoFormula : CtrTiempoFormula
     {
-        public CtrIeTeFormula()
+        public CtrValorDescontadoFormula()
         {
             InitializeComponent();
+        }
+
+        private void CtrValorDescontadoFormula_Load(object sender, EventArgs e)
+        {
+
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
             try
             {
-                if (double.TryParse(txtCapital.Text, out double capital) &&
-                    double.TryParse(txtInteres.Text, out double tasa) &&
+                if (double.TryParse(txtTasaDescuento.Text, out double tasaDescuento) &&
+                    double.TryParse(txtSumaSolicitada.Text, out double sumaSolicitada) &&
                     DateTime.TryParse(txtFechaInicial.Text, out DateTime fechaInicial) &&
                     DateTime.TryParse(txtFechaFinal.Text, out DateTime fechaFinal))
                 {
-                    double interes = capital * (tasa / 100) * (TiempoExacto(fechaInicial, fechaFinal) / 365);
-                    double montoTotal = capital + interes;
-
-                    txtResultado.Text = ("Interes Generado= " + interes);
+                    double tiempo = TiempoAproximado(fechaInicial, fechaFinal) / 360;
+                    double valorDescontado = sumaSolicitada * (1-(tasaDescuento / 100) * tiempo);
+                    txtResultado.Text = ("El valor descontado calculado es: " + valorDescontado);
                 }
                 else
                 {
-                    MessageBox.Show("Por favor ingrese valores numéricos válidos en todos los campor.",
+                    MessageBox.Show("Por favor ingrese valores numéricos válidos en todos los campos.",
                         "Error de entrada", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 }
             }
@@ -42,11 +46,6 @@ namespace Calculadora_Financiera_UI.Interes_Simple
             {
                 MessageBox.Show("Ocurrió un error: " + ex.Message, "Error", MessageBoxButtons.OK, MessageBoxIcon.Warning);
             }
-        }
-
-        private void CtrIeTeFormula_Load(object sender, EventArgs e)
-        {
-
         }
     }
 }

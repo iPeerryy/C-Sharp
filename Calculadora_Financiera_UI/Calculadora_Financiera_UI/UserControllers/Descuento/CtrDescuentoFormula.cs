@@ -9,11 +9,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Calculadora_Financiera_UI.Interes_Simple
+namespace Calculadora_Financiera_UI.UserControllers.Descuento
 {
-    public partial class CtrIeTeFormula : CtrTiempoFormula
+    public partial class CtrDescuentoFormula : CtrTiempoFormula
     {
-        public CtrIeTeFormula()
+        public CtrDescuentoFormula()
         {
             InitializeComponent();
         }
@@ -22,19 +22,18 @@ namespace Calculadora_Financiera_UI.Interes_Simple
         {
             try
             {
-                if (double.TryParse(txtCapital.Text, out double capital) &&
-                    double.TryParse(txtInteres.Text, out double tasa) &&
+                if (double.TryParse(txtTasaDescuento.Text, out double tasaDescuento) &&
+                    double.TryParse(txtValorPagar.Text, out double valorPagar) &&
                     DateTime.TryParse(txtFechaInicial.Text, out DateTime fechaInicial) &&
                     DateTime.TryParse(txtFechaFinal.Text, out DateTime fechaFinal))
                 {
-                    double interes = capital * (tasa / 100) * (TiempoExacto(fechaInicial, fechaFinal) / 365);
-                    double montoTotal = capital + interes;
-
-                    txtResultado.Text = ("Interes Generado= " + interes);
+                    double tiempo = TiempoAproximado(fechaInicial, fechaFinal) / 360;
+                    double descuento = valorPagar  * (tasaDescuento / 100) * tiempo;
+                    txtResultado.Text = ("El capital calculado es: " + descuento);
                 }
                 else
                 {
-                    MessageBox.Show("Por favor ingrese valores numéricos válidos en todos los campor.",
+                    MessageBox.Show("Por favor ingrese valores numéricos válidos en todos los campos.",
                         "Error de entrada", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 }
             }
@@ -42,11 +41,6 @@ namespace Calculadora_Financiera_UI.Interes_Simple
             {
                 MessageBox.Show("Ocurrió un error: " + ex.Message, "Error", MessageBoxButtons.OK, MessageBoxIcon.Warning);
             }
-        }
-
-        private void CtrIeTeFormula_Load(object sender, EventArgs e)
-        {
-
         }
     }
 }

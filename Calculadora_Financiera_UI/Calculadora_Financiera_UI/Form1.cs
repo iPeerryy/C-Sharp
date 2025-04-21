@@ -1,4 +1,5 @@
 using Calculadora_Financiera_UI.Métodos;
+using Calculadora_Financiera_UI.UserControllers.Descuento;
 using Calculadora_Financiera_UI.UserControllers.Tiempo;
 using System.Windows.Forms;
 
@@ -17,7 +18,7 @@ namespace Calculadora_Financiera_UI
             this.Load += Form1_Load;
             this.Resize += Form1_Resize;
             InitializeComponent();
-           navegador = new CtrNavegador(panelCalculadoraFinanciera);
+            navegador = new CtrNavegador(panelCalculadoraFinanciera);
         }
 
         private void Form1_Load(object sender, EventArgs e)
@@ -100,7 +101,7 @@ namespace Calculadora_Financiera_UI
         {
             Form formularioActual = this.FindForm();
 
-            
+
             formularioActual.Hide();
 
             formularioActual.Close();
@@ -114,6 +115,16 @@ namespace Calculadora_Financiera_UI
             InteresSimpleMenu.Show();
             panelCalculadoraFinanciera.Controls.Add(InteresSimpleMenu);
             panelCalculadoraFinanciera.Visible = true;
+        }
+
+        private void button1_Click_2(object sender, EventArgs e)
+        {
+            panelCalculadoraFinanciera.Controls.Clear();
+            CtrDescuento InteresSimpleMenu = new CtrDescuento();
+            InteresSimpleMenu.Show();
+            panelCalculadoraFinanciera.Controls.Add(InteresSimpleMenu);
+            panelCalculadoraFinanciera.Visible = true;
+
         }
     }
 }

@@ -1,6 +1,24 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
+    <Compile Update="UserControllers\Descuento\CtrDescuento.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControllers\Descuento\CtrDescuentoFormula.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControllers\Descuento\CtrTasaDescuentoFormula.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControllers\Descuento\CtrValorDescontadoFormula.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControllers\Interes Simple\CtrCapitalFormula.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControllers\Interes Simple\CtrMontoFormula.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
     <Compile Update="UserControllers\Interes Simple\CtrIeTaFormula.cs">
       <SubType>UserControl</SubType>
     </Compile>
