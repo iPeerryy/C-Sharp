@@ -18,27 +18,35 @@ namespace Calculadora_Financiera_UI.Métodos
 
         public void NavegarA(UserControl nuevo)
         {
+
+
+            // Guardar el control actual en el historial si existe
             if (contenedor.Controls.Count > 0)
             {
-                var actual = (UserControl)contenedor.Controls[0];
-                actual.Visible = false;
-                historial.Push(actual);
+                foreach (Control control in contenedor.Controls)
+                {
+                    if (control is UserControl existingUserControl)
+                    {
+                        historial.Push(existingUserControl);
+                        break;
+                    }
+                }
             }
 
+            contenedor.Controls.Clear();
             nuevo.Dock = DockStyle.Fill;
             contenedor.Controls.Add(nuevo);
-            nuevo.Visible = true;
         }
 
         public void Volver()
         {
+            
             if (historial.Count > 0)
             {
-                var actual = (UserControl)contenedor.Controls[contenedor.Controls.Count - 1];
-                contenedor.Controls.Remove(actual);
-
+                contenedor.Controls.Clear();
                 var anterior = historial.Pop();
-                anterior.Visible = true;
+                contenedor.Controls.Add(anterior);
+                anterior.Dock = DockStyle.Fill;
             }
         }
     }

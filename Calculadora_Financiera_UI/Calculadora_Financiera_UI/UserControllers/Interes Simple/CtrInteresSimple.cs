@@ -1,4 +1,5 @@
 ﻿using Calculadora_Financiera_UI.Interes_Simple;
+using Calculadora_Financiera_UI.Métodos;
 using Calculadora_Financiera_UI.UserControllers.Interes_Simple;
 using System;
 using System.Collections.Generic;
@@ -15,7 +16,7 @@ namespace Calculadora_Financiera_UI
 
     public partial class CtrInteresSimple : UserControl
     {
-
+        private CtrNavegador navegador;
         public CtrInteresSimple()
         {
             InitializeComponent();
@@ -80,6 +81,11 @@ namespace Calculadora_Financiera_UI
             CtrMontoFormula intresSimpleFormula = new CtrMontoFormula();
             panelInteresSimple.Controls.Add(intresSimpleFormula);
             panelInteresSimple.Visible = true;
+        }
+
+        private void volverButton_Click_1(object sender, EventArgs e)
+        {
+            navegador.Volver();
         }
     }
 }
