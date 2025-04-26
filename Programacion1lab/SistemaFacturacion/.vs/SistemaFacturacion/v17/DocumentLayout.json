@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Programacion1lab\\SistemaFacturacion\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC297F59-65A3-94C3-3E02-6CDBAE17CE5E}|SistemaFacturacion\\SistemaFacturacion.csproj|c:\\users\\daniel\\desktop\\proyectos\\c-sharp\\programacion1lab\\sistemafacturacion\\sistemafacturacion\\sistemafacturacion.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{FC297F59-65A3-94C3-3E02-6CDBAE17CE5E}|SistemaFacturacion\\SistemaFacturacion.csproj|solutionrelative:sistemafacturacion\\sistemafacturacion.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC297F59-65A3-94C3-3E02-6CDBAE17CE5E}|SistemaFacturacion\\SistemaFacturacion.csproj|c:\\users\\daniel\\desktop\\proyectos\\c-sharp\\programacion1lab\\sistemafacturacion\\sistemafacturacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC297F59-65A3-94C3-3E02-6CDBAE17CE5E}|SistemaFacturacion\\SistemaFacturacion.csproj|solutionrelative:sistemafacturacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +18,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SistemaFacturacion",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Programacion1lab\\SistemaFacturacion\\SistemaFacturacion\\SistemaFacturacion.csproj",
+              "RelativeDocumentMoniker": "SistemaFacturacion\\SistemaFacturacion.csproj",
+              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Programacion1lab\\SistemaFacturacion\\SistemaFacturacion\\SistemaFacturacion.csproj",
+              "RelativeToolTip": "SistemaFacturacion\\SistemaFacturacion.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-26T04:53:24.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Programacion1lab\\SistemaFacturacion\\SistemaFacturacion\\Program.cs",
+              "RelativeDocumentMoniker": "SistemaFacturacion\\Program.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Programacion1lab\\SistemaFacturacion\\SistemaFacturacion\\Program.cs",
+              "RelativeToolTip": "SistemaFacturacion\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T04:52:59.096Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
