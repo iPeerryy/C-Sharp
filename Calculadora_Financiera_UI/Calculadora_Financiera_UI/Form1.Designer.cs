@@ -38,7 +38,8 @@ namespace Calculadora_Financiera_UI
             panel3 = new Panel();
             label2 = new Label();
             flowLayoutPanel1 = new FlowLayoutPanel();
-            panel342 = new Panel();
+            EcuacionValor = new Button();
+            panelReemplazable = new Panel();
             panel3.SuspendLayout();
             flowLayoutPanel1.SuspendLayout();
             SuspendLayout();
@@ -131,6 +132,7 @@ namespace Calculadora_Financiera_UI
             flowLayoutPanel1.Controls.Add(interesSimpleMenuButton);
             flowLayoutPanel1.Controls.Add(TiempoMenuButton);
             flowLayoutPanel1.Controls.Add(button1);
+            flowLayoutPanel1.Controls.Add(EcuacionValor);
             flowLayoutPanel1.Dock = DockStyle.Left;
             flowLayoutPanel1.Location = new Point(0, 78);
             flowLayoutPanel1.Name = "flowLayoutPanel1";
@@ -138,20 +140,37 @@ namespace Calculadora_Financiera_UI
             flowLayoutPanel1.TabIndex = 8;
             flowLayoutPanel1.Paint += flowLayoutPanel1_Paint;
             // 
-            // panel342
+            // EcuacionValor
             // 
-            panel342.Dock = DockStyle.Fill;
-            panel342.Location = new Point(287, 78);
-            panel342.Name = "panel342";
-            panel342.Size = new Size(878, 413);
-            panel342.TabIndex = 9;
+            EcuacionValor.FlatAppearance.BorderSize = 0;
+            EcuacionValor.FlatAppearance.MouseDownBackColor = SystemColors.Highlight;
+            EcuacionValor.FlatAppearance.MouseOverBackColor = SystemColors.Highlight;
+            EcuacionValor.FlatStyle = FlatStyle.Flat;
+            EcuacionValor.Font = new Font("Century Gothic", 12F, FontStyle.Bold | FontStyle.Italic, GraphicsUnit.Point, 0);
+            EcuacionValor.Location = new Point(3, 130);
+            EcuacionValor.Name = "EcuacionValor";
+            EcuacionValor.Size = new Size(284, 36);
+            EcuacionValor.TabIndex = 6;
+            EcuacionValor.Text = "Ecuacion de Valor ";
+            EcuacionValor.TextAlign = ContentAlignment.MiddleLeft;
+            EcuacionValor.UseVisualStyleBackColor = true;
+            EcuacionValor.Click += EcuacionValor_Click;
+            // 
+            // panelReemplazable
+            // 
+            panelReemplazable.Dock = DockStyle.Fill;
+            panelReemplazable.Location = new Point(287, 78);
+            panelReemplazable.Name = "panelReemplazable";
+            panelReemplazable.Size = new Size(878, 413);
+            panelReemplazable.TabIndex = 9;
+            panelReemplazable.Paint += panelReemplazable_Paint;
             // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(1165, 491);
-            Controls.Add(panel342);
+            Controls.Add(panelReemplazable);
             Controls.Add(flowLayoutPanel1);
             Controls.Add(panel3);
             Name = "Form1";
@@ -179,6 +198,7 @@ namespace Calculadora_Financiera_UI
         private Panel panel3;
         private Label label2;
         private FlowLayoutPanel flowLayoutPanel1;
-        private Panel panel342;
+        private Panel panelReemplazable;
+        private Button EcuacionValor;
     }
 }

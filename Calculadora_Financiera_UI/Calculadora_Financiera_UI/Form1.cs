@@ -1,5 +1,6 @@
-using Calculadora_Financiera_UI.Métodos;
+
 using Calculadora_Financiera_UI.UserControllers.Descuento;
+using Calculadora_Financiera_UI.UserControllers.EcuacionesValorInteresSimple;
 using Calculadora_Financiera_UI.UserControllers.Tiempo;
 using System.Windows.Forms;
 
@@ -10,15 +11,15 @@ namespace Calculadora_Financiera_UI
 
 
 
-        private CtrNavegador navegador;
+
         private Panel contenedor;
 
         public Form1()
         {
 
             InitializeComponent();
-            contenedor = panel342;
-            navegador = new CtrNavegador(panel342);
+            contenedor = panelReemplazable;
+
 
         }
 
@@ -29,7 +30,13 @@ namespace Calculadora_Financiera_UI
 
         }
 
-
+        private void CargarControladorEnPanel(UserControl controlador)
+        {
+            controlador.Dock = DockStyle.Fill;
+            panelReemplazable.Controls.Clear();
+            panelReemplazable.Controls.Add(controlador);
+            controlador.BringToFront();
+        }
 
         private void label2_Click(object sender, EventArgs e)
         {
@@ -42,41 +49,26 @@ namespace Calculadora_Financiera_UI
 
         private void button1_Click(object sender, EventArgs e)
         {
-            //panelCalculadoraFinanciera.Controls.Clear();
-            //CtrInteresSimple interesSimpleMenu = new CtrInteresSimple();
-            navegador.NavegarA(new CtrInteresSimple());
-            //InteresSimpleMenu.Show();
-            //panelCalculadoraFinanciera.Controls.Add(InteresSimpleMenu);
-            //panelCalculadoraFinanciera.Visible = true;
-            //interesSimpleMenu.BringToFront();
+            CtrInteresSimple ctrInteresSimple = new CtrInteresSimple();
+            CargarControladorEnPanel(ctrInteresSimple);
+
         }
-        private void button1_Click_1(object sender, EventArgs e)
-        {
-            Form formularioActual = this.FindForm();
 
-
-            formularioActual.Hide();
-
-            formularioActual.Close();
-        }
 
         private void TiempoMenuButton_Click(object sender, EventArgs e)
         {
 
-            panel342.Controls.Clear();
-            CtrTiempoMenu InteresSimpleMenu = new CtrTiempoMenu();
-            InteresSimpleMenu.Show();
-            panel342.Controls.Add(InteresSimpleMenu);
-            panel342.Visible = true;
+
+            CtrTiempoMenu tiempoMenu = new CtrTiempoMenu();
+            CargarControladorEnPanel(tiempoMenu);
         }
 
         private void button1_Click_2(object sender, EventArgs e)
         {
-            panel342.Controls.Clear();
-            CtrDescuento InteresSimpleMenu = new CtrDescuento();
-            InteresSimpleMenu.Show();
-            panel342.Controls.Add(InteresSimpleMenu);
-            panel342.Visible = true;
+
+            CtrDescuento descuentoMenu = new CtrDescuento();
+            CargarControladorEnPanel(descuentoMenu);
+
 
         }
 
@@ -91,6 +83,17 @@ namespace Calculadora_Financiera_UI
         }
 
         private void flowLayoutPanel1_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void EcuacionValor_Click(object sender, EventArgs e)
+        {
+            CtrEcuacionValor ctrEcuacionValor = new CtrEcuacionValor();
+            CargarControladorEnPanel(ctrEcuacionValor);
+        }
+
+        private void panelReemplazable_Paint(object sender, PaintEventArgs e)
         {
 
         }

@@ -13,6 +13,9 @@
     <Compile Update="UserControllers\Descuento\CtrValorDescontadoFormula.cs">
       <SubType>UserControl</SubType>
     </Compile>
+    <Compile Update="UserControllers\EcuacionesValorInteresSimple\CtrEcuacionValor.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
     <Compile Update="UserControllers\Interes Simple\CtrCapitalFormula.cs">
       <SubType>UserControl</SubType>
     </Compile>
