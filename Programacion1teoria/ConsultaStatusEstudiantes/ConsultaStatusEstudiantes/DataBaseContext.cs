@@ -17,19 +17,19 @@ namespace ConsultaStatusEstudiantes
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.Entity<Estudiante>()
-                .HasKey(e => e.Matricula);
+                .HasKey(e => e.matricula);
 
             modelBuilder.Entity<Estudiante>()
-                .Property(e => e.Matricula)
+                .Property(e => e.matricula)
                 .HasMaxLength(20);
 
             modelBuilder.Entity<Estudiante>()
-                .Property(e=> e.Nombre)
+                .Property(e=> e.nombre)
                 .IsRequired()
                 .HasMaxLength(100);
 
             modelBuilder.Entity<Estudiante>()
-                .Property(e => e.Apellido)
+                .Property(e => e.apellido)
                 .IsRequired()
                 .HasMaxLength(100);
 
@@ -56,7 +56,23 @@ namespace ConsultaStatusEstudiantes
             modelBuilder.Entity<Estudiante>()
                 .Property(e => e.Practica3)
                 .HasColumnType("float");
+
+            modelBuilder.Entity<Estudiante>()
+                .Property(e => e.PromedioTotal)
+                .HasColumnType("float");
+            modelBuilder.Entity<Estudiante>()
+                .Property(e => e.PromedioExamenes)
+                .HasColumnType("float");
+            modelBuilder.Entity<Estudiante>()
+                .Property(e => e.PromedioPracticas)
+                .HasColumnType("float");
+
+            modelBuilder.Entity<Estudiante>()
+                .Property(e => e.estado)
+                .HasColumnType("bit");
+
         }   
+
 
 
     }

@@ -3,7 +3,6 @@ C:\Users\Daniel\Desktop\Proyectos\C-Sharp\Programacion1teoria\ConsultaStatusEstu
 C:\Users\Daniel\Desktop\Proyectos\C-Sharp\Programacion1teoria\ConsultaStatusEstudiantes\ConsultaStatusEstudiantes\bin\Debug\net8.0-windows\ConsultaStatusEstudiantes.runtimeconfig.json
 C:\Users\Daniel\Desktop\Proyectos\C-Sharp\Programacion1teoria\ConsultaStatusEstudiantes\ConsultaStatusEstudiantes\bin\Debug\net8.0-windows\ConsultaStatusEstudiantes.dll
 C:\Users\Daniel\Desktop\Proyectos\C-Sharp\Programacion1teoria\ConsultaStatusEstudiantes\ConsultaStatusEstudiantes\bin\Debug\net8.0-windows\ConsultaStatusEstudiantes.pdb
-C:\Users\Daniel\Desktop\Proyectos\C-Sharp\Programacion1teoria\ConsultaStatusEstudiantes\ConsultaStatusEstudiantes\obj\Debug\net8.0-windows\ConsultaStatusEstudiantes.Form1.resources
 C:\Users\Daniel\Desktop\Proyectos\C-Sharp\Programacion1teoria\ConsultaStatusEstudiantes\ConsultaStatusEstudiantes\obj\Debug\net8.0-windows\ConsultaStatusEstudiantes.csproj.GenerateResource.cache
 C:\Users\Daniel\Desktop\Proyectos\C-Sharp\Programacion1teoria\ConsultaStatusEstudiantes\ConsultaStatusEstudiantes\obj\Debug\net8.0-windows\ConsultaStatusEstudiantes.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Daniel\Desktop\Proyectos\C-Sharp\Programacion1teoria\ConsultaStatusEstudiantes\ConsultaStatusEstudiantes\obj\Debug\net8.0-windows\ConsultaStatusEstudiantes.AssemblyInfoInputs.cache
@@ -141,3 +140,18 @@ C:\Users\Daniel\Desktop\Proyectos\C-Sharp\Programacion1teoria\ConsultaStatusEstu
 C:\Users\Daniel\Desktop\Proyectos\C-Sharp\Programacion1teoria\ConsultaStatusEstudiantes\ConsultaStatusEstudiantes\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
 C:\Users\Daniel\Desktop\Proyectos\C-Sharp\Programacion1teoria\ConsultaStatusEstudiantes\ConsultaStatusEstudiantes\obj\Debug\net8.0-windows\ConsultaStatusEstudiantes.csproj.AssemblyReference.cache
 C:\Users\Daniel\Desktop\Proyectos\C-Sharp\Programacion1teoria\ConsultaStatusEstudiantes\ConsultaStatusEstudiantes\obj\Debug\net8.0-windows\Consulta.D854D2F5.Up2Date
+C:\Users\Daniel\Desktop\Proyectos\C-Sharp\Programacion1teoria\ConsultaStatusEstudiantes\ConsultaStatusEstudiantes\bin\Debug\net8.0-windows\Bunifu.Charts.WinForms.dll
+C:\Users\Daniel\Desktop\Proyectos\C-Sharp\Programacion1teoria\ConsultaStatusEstudiantes\ConsultaStatusEstudiantes\bin\Debug\net8.0-windows\Bunifu.Dataviz.WinForms.dll
+C:\Users\Daniel\Desktop\Proyectos\C-Sharp\Programacion1teoria\ConsultaStatusEstudiantes\ConsultaStatusEstudiantes\bin\Debug\net8.0-windows\Bunifu.Licensing.dll
+C:\Users\Daniel\Desktop\Proyectos\C-Sharp\Programacion1teoria\ConsultaStatusEstudiantes\ConsultaStatusEstudiantes\bin\Debug\net8.0-windows\Bunifu.UI.WinForms.dll
+C:\Users\Daniel\Desktop\Proyectos\C-Sharp\Programacion1teoria\ConsultaStatusEstudiantes\ConsultaStatusEstudiantes\bin\Debug\net8.0-windows\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\Daniel\Desktop\Proyectos\C-Sharp\Programacion1teoria\ConsultaStatusEstudiantes\ConsultaStatusEstudiantes\bin\Debug\net8.0-windows\Bunifu.Utils.dll
+C:\Users\Daniel\Desktop\Proyectos\C-Sharp\Programacion1teoria\ConsultaStatusEstudiantes\ConsultaStatusEstudiantes\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\Daniel\Desktop\Proyectos\C-Sharp\Programacion1teoria\ConsultaStatusEstudiantes\ConsultaStatusEstudiantes\bin\Debug\net8.0-windows\System.CodeDom.dll
+C:\Users\Daniel\Desktop\Proyectos\C-Sharp\Programacion1teoria\ConsultaStatusEstudiantes\ConsultaStatusEstudiantes\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\Daniel\Desktop\Proyectos\C-Sharp\Programacion1teoria\ConsultaStatusEstudiantes\ConsultaStatusEstudiantes\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Management.dll
+C:\Users\Daniel\Desktop\Proyectos\C-Sharp\Programacion1teoria\ConsultaStatusEstudiantes\ConsultaStatusEstudiantes\obj\Debug\net8.0-windows\ConsultaStatusEstudiantes.frm_Home.resources
+C:\Users\Daniel\Desktop\Proyectos\C-Sharp\Programacion1teoria\ConsultaStatusEstudiantes\ConsultaStatusEstudiantes\obj\Debug\net8.0-windows\ConsultaStatusEstudiantes.Properties.Resources.resources
+C:\Users\Daniel\Desktop\Proyectos\C-Sharp\Programacion1teoria\ConsultaStatusEstudiantes\ConsultaStatusEstudiantes\obj\Debug\net8.0-windows\ConsultaStatusEstudiantes.AgregarControl.resources
+C:\Users\Daniel\Desktop\Proyectos\C-Sharp\Programacion1teoria\ConsultaStatusEstudiantes\ConsultaStatusEstudiantes\obj\Debug\net8.0-windows\ConsultaStatusEstudiantes.EliminarControl.resources
+C:\Users\Daniel\Desktop\Proyectos\C-Sharp\Programacion1teoria\ConsultaStatusEstudiantes\ConsultaStatusEstudiantes\obj\Debug\net8.0-windows\ConsultaStatusEstudiantes.MostrarRegistroControl.resources

@@ -10,7 +10,7 @@ namespace ConsultaStatusEstudiantes
 {
     public class AlmacenamientoSQLServer : IAlmacenamiento<Estudiante>
     {
-        private readonly DataBaseContext _context;
+        private DataBaseContext _context;
 
         public AlmacenamientoSQLServer(DataBaseContext context)
         {
@@ -20,6 +20,11 @@ namespace ConsultaStatusEstudiantes
         public void InicializarBaseDatos()
         {
             _context.Database.EnsureCreated();
+           
+        }
+        public Estudiante Obtener(string matricula)
+        {
+            return _context.Estudiantes.FirstOrDefault(e => e.matricula == matricula);
         }
         public void Eliminar(string matricula)
         {
@@ -35,7 +40,6 @@ namespace ConsultaStatusEstudiantes
         {
             _context.Estudiantes.Update(estudiante);
             _context.SaveChanges();
-
         }
 
         public void Guardar(Estudiante estudiante)
@@ -44,10 +48,7 @@ namespace ConsultaStatusEstudiantes
             _context.SaveChanges();
         }
 
-        public Estudiante Obtener(string matricula)
-        {
-            return _context.Estudiantes.FirstOrDefault(e => e.Matricula == matricula);
-        }
+        
 
         public List<Estudiante> ObtenerTodos()
         {

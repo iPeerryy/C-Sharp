@@ -3,16 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Programacion1teoria\\ConsultaStatusEstudiantes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BB41F887-8059-43D8-9AA0-9509B6F8A4AF}|ConsultaStatusEstudiantes\\ConsultaStatusEstudiantes.csproj|c:\\users\\daniel\\desktop\\proyectos\\c-sharp\\programacion1teoria\\consultastatusestudiantes\\consultastatusestudiantes\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BB41F887-8059-43D8-9AA0-9509B6F8A4AF}|ConsultaStatusEstudiantes\\ConsultaStatusEstudiantes.csproj|solutionrelative:consultastatusestudiantes\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BB41F887-8059-43D8-9AA0-9509B6F8A4AF}|ConsultaStatusEstudiantes\\ConsultaStatusEstudiantes.csproj|c:\\users\\daniel\\desktop\\proyectos\\c-sharp\\programacion1teoria\\consultastatusestudiantes\\consultastatusestudiantes\\agregarcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB41F887-8059-43D8-9AA0-9509B6F8A4AF}|ConsultaStatusEstudiantes\\ConsultaStatusEstudiantes.csproj|solutionrelative:consultastatusestudiantes\\agregarcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB41F887-8059-43D8-9AA0-9509B6F8A4AF}|ConsultaStatusEstudiantes\\ConsultaStatusEstudiantes.csproj|C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Programacion1teoria\\ConsultaStatusEstudiantes\\consultastatusestudiantes\\agregarcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BB41F887-8059-43D8-9AA0-9509B6F8A4AF}|ConsultaStatusEstudiantes\\ConsultaStatusEstudiantes.csproj|solutionrelative:consultastatusestudiantes\\agregarcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB41F887-8059-43D8-9AA0-9509B6F8A4AF}|ConsultaStatusEstudiantes\\ConsultaStatusEstudiantes.csproj|c:\\users\\daniel\\desktop\\proyectos\\c-sharp\\programacion1teoria\\consultastatusestudiantes\\consultastatusestudiantes\\mostrarregistrocontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB41F887-8059-43D8-9AA0-9509B6F8A4AF}|ConsultaStatusEstudiantes\\ConsultaStatusEstudiantes.csproj|solutionrelative:consultastatusestudiantes\\mostrarregistrocontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BB41F887-8059-43D8-9AA0-9509B6F8A4AF}|ConsultaStatusEstudiantes\\ConsultaStatusEstudiantes.csproj|c:\\users\\daniel\\desktop\\proyectos\\c-sharp\\programacion1teoria\\consultastatusestudiantes\\consultastatusestudiantes\\almacenamientosqlserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BB41F887-8059-43D8-9AA0-9509B6F8A4AF}|ConsultaStatusEstudiantes\\ConsultaStatusEstudiantes.csproj|solutionrelative:consultastatusestudiantes\\almacenamientosqlserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{BB41F887-8059-43D8-9AA0-9509B6F8A4AF}|ConsultaStatusEstudiantes\\ConsultaStatusEstudiantes.csproj|c:\\users\\daniel\\desktop\\proyectos\\c-sharp\\programacion1teoria\\consultastatusestudiantes\\consultastatusestudiantes\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB41F887-8059-43D8-9AA0-9509B6F8A4AF}|ConsultaStatusEstudiantes\\ConsultaStatusEstudiantes.csproj|solutionrelative:consultastatusestudiantes\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB41F887-8059-43D8-9AA0-9509B6F8A4AF}|ConsultaStatusEstudiantes\\ConsultaStatusEstudiantes.csproj|c:\\users\\daniel\\desktop\\proyectos\\c-sharp\\programacion1teoria\\consultastatusestudiantes\\consultastatusestudiantes\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB41F887-8059-43D8-9AA0-9509B6F8A4AF}|ConsultaStatusEstudiantes\\ConsultaStatusEstudiantes.csproj|solutionrelative:consultastatusestudiantes\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB41F887-8059-43D8-9AA0-9509B6F8A4AF}|ConsultaStatusEstudiantes\\ConsultaStatusEstudiantes.csproj|C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Programacion1teoria\\ConsultaStatusEstudiantes\\consultastatusestudiantes\\eliminarcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BB41F887-8059-43D8-9AA0-9509B6F8A4AF}|ConsultaStatusEstudiantes\\ConsultaStatusEstudiantes.csproj|solutionrelative:consultastatusestudiantes\\eliminarcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB41F887-8059-43D8-9AA0-9509B6F8A4AF}|ConsultaStatusEstudiantes\\ConsultaStatusEstudiantes.csproj|c:\\users\\daniel\\desktop\\proyectos\\c-sharp\\programacion1teoria\\consultastatusestudiantes\\consultastatusestudiantes\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB41F887-8059-43D8-9AA0-9509B6F8A4AF}|ConsultaStatusEstudiantes\\ConsultaStatusEstudiantes.csproj|solutionrelative:consultastatusestudiantes\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB41F887-8059-43D8-9AA0-9509B6F8A4AF}|ConsultaStatusEstudiantes\\ConsultaStatusEstudiantes.csproj|c:\\users\\daniel\\desktop\\proyectos\\c-sharp\\programacion1teoria\\consultastatusestudiantes\\consultastatusestudiantes\\eliminarcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB41F887-8059-43D8-9AA0-9509B6F8A4AF}|ConsultaStatusEstudiantes\\ConsultaStatusEstudiantes.csproj|solutionrelative:consultastatusestudiantes\\eliminarcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BB41F887-8059-43D8-9AA0-9509B6F8A4AF}|ConsultaStatusEstudiantes\\ConsultaStatusEstudiantes.csproj|c:\\users\\daniel\\desktop\\proyectos\\c-sharp\\programacion1teoria\\consultastatusestudiantes\\consultastatusestudiantes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BB41F887-8059-43D8-9AA0-9509B6F8A4AF}|ConsultaStatusEstudiantes\\ConsultaStatusEstudiantes.csproj|solutionrelative:consultastatusestudiantes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB41F887-8059-43D8-9AA0-9509B6F8A4AF}|ConsultaStatusEstudiantes\\ConsultaStatusEstudiantes.csproj|C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Programacion1teoria\\ConsultaStatusEstudiantes\\consultastatusestudiantes\\mostrarregistrocontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BB41F887-8059-43D8-9AA0-9509B6F8A4AF}|ConsultaStatusEstudiantes\\ConsultaStatusEstudiantes.csproj|solutionrelative:consultastatusestudiantes\\mostrarregistrocontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BB41F887-8059-43D8-9AA0-9509B6F8A4AF}|ConsultaStatusEstudiantes\\ConsultaStatusEstudiantes.csproj|C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Programacion1teoria\\ConsultaStatusEstudiantes\\consultastatusestudiantes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -26,62 +58,165 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 7,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Programacion1teoria\\ConsultaStatusEstudiantes\\ConsultaStatusEstudiantes\\Persona.cs",
+              "RelativeDocumentMoniker": "ConsultaStatusEstudiantes\\Persona.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Programacion1teoria\\ConsultaStatusEstudiantes\\ConsultaStatusEstudiantes\\Persona.cs",
+              "RelativeToolTip": "ConsultaStatusEstudiantes\\Persona.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T00:21:24.572Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Estudiante.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Programacion1teoria\\ConsultaStatusEstudiantes\\ConsultaStatusEstudiantes\\Estudiante.cs",
+              "RelativeDocumentMoniker": "ConsultaStatusEstudiantes\\Estudiante.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Programacion1teoria\\ConsultaStatusEstudiantes\\ConsultaStatusEstudiantes\\Estudiante.cs",
+              "RelativeToolTip": "ConsultaStatusEstudiantes\\Estudiante.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAiwDQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T07:13:54.688Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Programacion1teoria\\ConsultaStatusEstudiantes\\ConsultaStatusEstudiantes\\Form1.cs",
-              "RelativeDocumentMoniker": "ConsultaStatusEstudiantes\\Form1.cs",
-              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Programacion1teoria\\ConsultaStatusEstudiantes\\ConsultaStatusEstudiantes\\Form1.cs",
-              "RelativeToolTip": "ConsultaStatusEstudiantes\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABFAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "AlmacenamientoSQLServer.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Programacion1teoria\\ConsultaStatusEstudiantes\\ConsultaStatusEstudiantes\\AlmacenamientoSQLServer.cs",
+              "RelativeDocumentMoniker": "ConsultaStatusEstudiantes\\AlmacenamientoSQLServer.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Programacion1teoria\\ConsultaStatusEstudiantes\\ConsultaStatusEstudiantes\\AlmacenamientoSQLServer.cs*",
+              "RelativeToolTip": "ConsultaStatusEstudiantes\\AlmacenamientoSQLServer.cs*",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwCwAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T04:25:11.256Z",
+              "WhenOpened": "2025-05-11T23:53:34.715Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MostrarRegistroControl.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Programacion1teoria\\ConsultaStatusEstudiantes\\ConsultaStatusEstudiantes\\MostrarRegistroControl.cs",
+              "RelativeDocumentMoniker": "ConsultaStatusEstudiantes\\MostrarRegistroControl.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Programacion1teoria\\ConsultaStatusEstudiantes\\ConsultaStatusEstudiantes\\MostrarRegistroControl.cs",
+              "RelativeToolTip": "ConsultaStatusEstudiantes\\MostrarRegistroControl.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBoAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T04:31:45.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AgregarControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Programacion1teoria\\ConsultaStatusEstudiantes\\ConsultaStatusEstudiantes\\AgregarControl.cs",
+              "RelativeDocumentMoniker": "ConsultaStatusEstudiantes\\AgregarControl.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Programacion1teoria\\ConsultaStatusEstudiantes\\ConsultaStatusEstudiantes\\AgregarControl.cs [Design]*",
+              "RelativeToolTip": "ConsultaStatusEstudiantes\\AgregarControl.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T19:56:28.881Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "AgregarControl.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Programacion1teoria\\ConsultaStatusEstudiantes\\ConsultaStatusEstudiantes\\AgregarControl.cs",
+              "RelativeDocumentMoniker": "ConsultaStatusEstudiantes\\AgregarControl.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Programacion1teoria\\ConsultaStatusEstudiantes\\ConsultaStatusEstudiantes\\AgregarControl.cs*",
+              "RelativeToolTip": "ConsultaStatusEstudiantes\\AgregarControl.cs*",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAnwE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T20:04:17.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EliminarControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Programacion1teoria\\ConsultaStatusEstudiantes\\ConsultaStatusEstudiantes\\EliminarControl.cs",
+              "RelativeDocumentMoniker": "ConsultaStatusEstudiantes\\EliminarControl.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Programacion1teoria\\ConsultaStatusEstudiantes\\ConsultaStatusEstudiantes\\EliminarControl.cs [Design]*",
+              "RelativeToolTip": "ConsultaStatusEstudiantes\\EliminarControl.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T17:25:51.215Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "DataBaseContext.cs",
               "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Programacion1teoria\\ConsultaStatusEstudiantes\\ConsultaStatusEstudiantes\\DataBaseContext.cs",
               "RelativeDocumentMoniker": "ConsultaStatusEstudiantes\\DataBaseContext.cs",
               "ToolTip": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Programacion1teoria\\ConsultaStatusEstudiantes\\ConsultaStatusEstudiantes\\DataBaseContext.cs",
               "RelativeToolTip": "ConsultaStatusEstudiantes\\DataBaseContext.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAADwvzcAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-17T00:37:46.43Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AlmacenamientoSQLServer.cs",
-              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Programacion1teoria\\ConsultaStatusEstudiantes\\ConsultaStatusEstudiantes\\AlmacenamientoSQLServer.cs",
-              "RelativeDocumentMoniker": "ConsultaStatusEstudiantes\\AlmacenamientoSQLServer.cs",
-              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Programacion1teoria\\ConsultaStatusEstudiantes\\ConsultaStatusEstudiantes\\AlmacenamientoSQLServer.cs",
-              "RelativeToolTip": "ConsultaStatusEstudiantes\\AlmacenamientoSQLServer.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "EliminarControl.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Programacion1teoria\\ConsultaStatusEstudiantes\\ConsultaStatusEstudiantes\\EliminarControl.cs",
+              "RelativeDocumentMoniker": "ConsultaStatusEstudiantes\\EliminarControl.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Programacion1teoria\\ConsultaStatusEstudiantes\\ConsultaStatusEstudiantes\\EliminarControl.cs",
+              "RelativeToolTip": "ConsultaStatusEstudiantes\\EliminarControl.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACEAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T00:31:07.774Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-29T17:28:58.969Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
+              "Title": "MostrarRegistroControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Programacion1teoria\\ConsultaStatusEstudiantes\\ConsultaStatusEstudiantes\\MostrarRegistroControl.cs",
+              "RelativeDocumentMoniker": "ConsultaStatusEstudiantes\\MostrarRegistroControl.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Programacion1teoria\\ConsultaStatusEstudiantes\\ConsultaStatusEstudiantes\\MostrarRegistroControl.cs [Design]",
+              "RelativeToolTip": "ConsultaStatusEstudiantes\\MostrarRegistroControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T04:26:11.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Programacion1teoria\\ConsultaStatusEstudiantes\\ConsultaStatusEstudiantes\\Form1.cs",
               "RelativeDocumentMoniker": "ConsultaStatusEstudiantes\\Form1.cs",
               "ToolTip": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Programacion1teoria\\ConsultaStatusEstudiantes\\ConsultaStatusEstudiantes\\Form1.cs [Design]",
               "RelativeToolTip": "ConsultaStatusEstudiantes\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T17:03:10.947Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-04-16T17:03:10.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Programacion1teoria\\ConsultaStatusEstudiantes\\ConsultaStatusEstudiantes\\Form1.cs",
+              "RelativeDocumentMoniker": "ConsultaStatusEstudiantes\\Form1.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Proyectos\\C-Sharp\\Programacion1teoria\\ConsultaStatusEstudiantes\\ConsultaStatusEstudiantes\\Form1.cs",
+              "RelativeToolTip": "ConsultaStatusEstudiantes\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T04:25:11.256Z"
             }
           ]
         }

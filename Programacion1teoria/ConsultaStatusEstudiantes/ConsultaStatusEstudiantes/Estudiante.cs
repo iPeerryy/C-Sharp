@@ -9,13 +9,17 @@ namespace ConsultaStatusEstudiantes
 {
     public class Estudiante : Persona
     {
+        public string matricula { get; set; }
         public double PrimerParcial { get; set; }
         public double SegundoParcial { get; set; }
-        public double ExamenFinal {  get; set; }
-
+        public double ExamenFinal { get; set; }
         public double Practica1 { get; set; }
         public double Practica2 { get; set; }
         public double Practica3 { get; set; }
+        public double PromedioPracticas { get; set; }
+        public double PromedioExamenes { get; set; }
+        public double PromedioTotal { get; set; }
+        public bool estado { get; set; }
 
         public double CalificacionExamenes()
         {
@@ -53,10 +57,6 @@ namespace ConsultaStatusEstudiantes
             else return "Reprobado";
         }
 
-        public override string ObtenerInformacion()
-        {
-            return "Studiante: " + NombreCompleto + ", Matrícula: " + Matricula + ", Califiación: " + CalificacionFinal + ", Estatus: " + Estatus;
-        }
         public bool ValidarCalificacion(double calificacion)
         {
             return calificacion >= 50 && calificacion <= 100;
