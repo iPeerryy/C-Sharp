@@ -1,6 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
+    <Compile Update="UserControllers\DecuentoPorProntoPago\CtrDescuentoPorProntoPago.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControllers\DecuentoPorProntoPago\CtrDescuentoPorProntoPagoMenu.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
     <Compile Update="UserControllers\Descuento\CtrDescuento.cs">
       <SubType>UserControl</SubType>
     </Compile>
@@ -41,6 +47,12 @@
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="Métodos\CtrTiempoFormula.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControllers\InteresCompuesto\CtrInteresCompuesto.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControllers\Tasa Equivalente\CtrTasaEquivalente.cs">
       <SubType>UserControl</SubType>
     </Compile>
     <Compile Update="UserControllers\Tiempo\CtrTiempoAproximadoFormula.cs">

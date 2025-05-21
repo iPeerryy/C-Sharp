@@ -39,6 +39,9 @@ namespace Calculadora_Financiera_UI
             label2 = new Label();
             flowLayoutPanel1 = new FlowLayoutPanel();
             EcuacionValor = new Button();
+            button2 = new Button();
+            button3 = new Button();
+            button4 = new Button();
             panelReemplazable = new Panel();
             panel3.SuspendLayout();
             flowLayoutPanel1.SuspendLayout();
@@ -84,7 +87,7 @@ namespace Calculadora_Financiera_UI
             button1.Name = "button1";
             button1.Size = new Size(284, 36);
             button1.TabIndex = 5;
-            button1.Text = "Descuento";
+            button1.Text = "Descuento interes simple";
             button1.TextAlign = ContentAlignment.MiddleLeft;
             button1.UseVisualStyleBackColor = true;
             button1.Click += button1_Click_2;
@@ -133,6 +136,9 @@ namespace Calculadora_Financiera_UI
             flowLayoutPanel1.Controls.Add(TiempoMenuButton);
             flowLayoutPanel1.Controls.Add(button1);
             flowLayoutPanel1.Controls.Add(EcuacionValor);
+            flowLayoutPanel1.Controls.Add(button2);
+            flowLayoutPanel1.Controls.Add(button3);
+            flowLayoutPanel1.Controls.Add(button4);
             flowLayoutPanel1.Dock = DockStyle.Left;
             flowLayoutPanel1.Location = new Point(0, 78);
             flowLayoutPanel1.Name = "flowLayoutPanel1";
@@ -155,6 +161,54 @@ namespace Calculadora_Financiera_UI
             EcuacionValor.TextAlign = ContentAlignment.MiddleLeft;
             EcuacionValor.UseVisualStyleBackColor = true;
             EcuacionValor.Click += EcuacionValor_Click;
+            // 
+            // button2
+            // 
+            button2.FlatAppearance.BorderSize = 0;
+            button2.FlatAppearance.MouseDownBackColor = SystemColors.Highlight;
+            button2.FlatAppearance.MouseOverBackColor = SystemColors.Highlight;
+            button2.FlatStyle = FlatStyle.Flat;
+            button2.Font = new Font("Century Gothic", 12F, FontStyle.Bold | FontStyle.Italic, GraphicsUnit.Point, 0);
+            button2.Location = new Point(3, 172);
+            button2.Name = "button2";
+            button2.Size = new Size(284, 36);
+            button2.TabIndex = 7;
+            button2.Text = "Descuento por pronto pago";
+            button2.TextAlign = ContentAlignment.MiddleLeft;
+            button2.UseVisualStyleBackColor = true;
+            button2.Click += button2_Click;
+            // 
+            // button3
+            // 
+            button3.FlatAppearance.BorderSize = 0;
+            button3.FlatAppearance.MouseDownBackColor = SystemColors.Highlight;
+            button3.FlatAppearance.MouseOverBackColor = SystemColors.Highlight;
+            button3.FlatStyle = FlatStyle.Flat;
+            button3.Font = new Font("Century Gothic", 12F, FontStyle.Bold | FontStyle.Italic, GraphicsUnit.Point, 0);
+            button3.Location = new Point(3, 214);
+            button3.Name = "button3";
+            button3.Size = new Size(284, 36);
+            button3.TabIndex = 8;
+            button3.Text = "Interes Compuesto";
+            button3.TextAlign = ContentAlignment.MiddleLeft;
+            button3.UseVisualStyleBackColor = true;
+            button3.Click += button3_Click;
+            // 
+            // button4
+            // 
+            button4.FlatAppearance.BorderSize = 0;
+            button4.FlatAppearance.MouseDownBackColor = SystemColors.Highlight;
+            button4.FlatAppearance.MouseOverBackColor = SystemColors.Highlight;
+            button4.FlatStyle = FlatStyle.Flat;
+            button4.Font = new Font("Century Gothic", 12F, FontStyle.Bold | FontStyle.Italic, GraphicsUnit.Point, 0);
+            button4.Location = new Point(3, 256);
+            button4.Name = "button4";
+            button4.Size = new Size(284, 36);
+            button4.TabIndex = 9;
+            button4.Text = "Tasas Equivalente";
+            button4.TextAlign = ContentAlignment.MiddleLeft;
+            button4.UseVisualStyleBackColor = true;
+            button4.Click += button4_Click;
             // 
             // panelReemplazable
             // 
@@ -200,5 +254,8 @@ namespace Calculadora_Financiera_UI
         private FlowLayoutPanel flowLayoutPanel1;
         private Panel panelReemplazable;
         private Button EcuacionValor;
+        private Button button2;
+        private Button button3;
+        private Button button4;
     }
 }

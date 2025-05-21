@@ -29,19 +29,25 @@
         private void InitializeComponent()
         {
             panel1 = new Panel();
+            button2 = new Button();
+            button1 = new Button();
+            comboMetodoInteres = new ComboBox();
+            calcularTasaButton = new Button();
             label2 = new Label();
             dateTimePickerFechaFocal = new DateTimePicker();
             CalcularButton = new Button();
             textBoxTasa = new TextBox();
             label1 = new Label();
             dataGridView1 = new DataGridView();
-            calcularTasaButton = new Button();
             panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)dataGridView1).BeginInit();
             SuspendLayout();
             // 
             // panel1
             // 
+            panel1.Controls.Add(button2);
+            panel1.Controls.Add(button1);
+            panel1.Controls.Add(comboMetodoInteres);
             panel1.Controls.Add(calcularTasaButton);
             panel1.Controls.Add(label2);
             panel1.Controls.Add(dateTimePickerFechaFocal);
@@ -49,11 +55,48 @@
             panel1.Controls.Add(textBoxTasa);
             panel1.Controls.Add(label1);
             panel1.Controls.Add(dataGridView1);
-            panel1.Dock = DockStyle.Fill;
             panel1.Location = new Point(0, 0);
             panel1.Name = "panel1";
             panel1.Size = new Size(1136, 608);
             panel1.TabIndex = 0;
+            // 
+            // button2
+            // 
+            button2.Location = new Point(892, 455);
+            button2.Name = "button2";
+            button2.Size = new Size(196, 84);
+            button2.TabIndex = 9;
+            button2.Text = "Calcular con regla de los saldos";
+            button2.UseVisualStyleBackColor = true;
+            button2.Click += button2_Click;
+            // 
+            // button1
+            // 
+            button1.Location = new Point(171, 455);
+            button1.Name = "button1";
+            button1.Size = new Size(196, 84);
+            button1.TabIndex = 8;
+            button1.Text = "Buscar Tiempo";
+            button1.UseVisualStyleBackColor = true;
+            button1.Click += button1_Click;
+            // 
+            // comboMetodoInteres
+            // 
+            comboMetodoInteres.FormattingEnabled = true;
+            comboMetodoInteres.Location = new Point(120, 212);
+            comboMetodoInteres.Name = "comboMetodoInteres";
+            comboMetodoInteres.Size = new Size(274, 23);
+            comboMetodoInteres.TabIndex = 7;
+            // 
+            // calcularTasaButton
+            // 
+            calcularTasaButton.Location = new Point(673, 455);
+            calcularTasaButton.Name = "calcularTasaButton";
+            calcularTasaButton.Size = new Size(162, 84);
+            calcularTasaButton.TabIndex = 6;
+            calcularTasaButton.Text = "Calcular Tasa";
+            calcularTasaButton.UseVisualStyleBackColor = true;
+            calcularTasaButton.Click += calcularTasaButton_Click;
             // 
             // label2
             // 
@@ -77,7 +120,7 @@
             CalcularButton.Name = "CalcularButton";
             CalcularButton.Size = new Size(196, 84);
             CalcularButton.TabIndex = 3;
-            CalcularButton.Text = "Calcular";
+            CalcularButton.Text = "Calcular o buscar X";
             CalcularButton.UseVisualStyleBackColor = true;
             CalcularButton.Click += CalcularButton_Click;
             // 
@@ -105,16 +148,6 @@
             dataGridView1.Size = new Size(419, 150);
             dataGridView1.TabIndex = 0;
             // 
-            // calcularTasaButton
-            // 
-            calcularTasaButton.Location = new Point(742, 455);
-            calcularTasaButton.Name = "calcularTasaButton";
-            calcularTasaButton.Size = new Size(162, 84);
-            calcularTasaButton.TabIndex = 6;
-            calcularTasaButton.Text = "Calcular Tasa";
-            calcularTasaButton.UseVisualStyleBackColor = true;
-            calcularTasaButton.Click += calcularTasaButton_Click;
-            // 
             // CtrEcuacionValor
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
@@ -138,5 +171,8 @@
         private Label label1;
         private DataGridView dataGridView1;
         private Button calcularTasaButton;
+        private ComboBox comboMetodoInteres;
+        private Button button2;
+        private Button button1;
     }
 }

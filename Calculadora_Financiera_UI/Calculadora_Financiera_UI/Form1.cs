@@ -1,6 +1,9 @@
 
+using Calculadora_Financiera_UI.UserControllers.DecuentoPorProntoPago;
 using Calculadora_Financiera_UI.UserControllers.Descuento;
 using Calculadora_Financiera_UI.UserControllers.EcuacionesValorInteresSimple;
+using Calculadora_Financiera_UI.UserControllers.InteresCompuesto;
+using Calculadora_Financiera_UI.UserControllers.Tasa_Equivalente;
 using Calculadora_Financiera_UI.UserControllers.Tiempo;
 using System.Windows.Forms;
 
@@ -96,6 +99,24 @@ namespace Calculadora_Financiera_UI
         private void panelReemplazable_Paint(object sender, PaintEventArgs e)
         {
 
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            CtrDescuentoPorProntoPago descuentoPorProntoPago = new CtrDescuentoPorProntoPago();
+            CargarControladorEnPanel(descuentoPorProntoPago);
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            CtrInteresCompuesto ctrInteresCompuesto = new CtrInteresCompuesto();
+            CargarControladorEnPanel(ctrInteresCompuesto);
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            CtrTasaEquivalente ctrTasaEquivalente = new CtrTasaEquivalente();
+            CargarControladorEnPanel(ctrTasaEquivalente);
         }
     }
 }
