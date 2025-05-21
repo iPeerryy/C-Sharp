@@ -42,6 +42,7 @@ namespace Calculadora_Financiera_UI
             button2 = new Button();
             button3 = new Button();
             button4 = new Button();
+            button5 = new Button();
             panelReemplazable = new Panel();
             panel3.SuspendLayout();
             flowLayoutPanel1.SuspendLayout();
@@ -139,6 +140,7 @@ namespace Calculadora_Financiera_UI
             flowLayoutPanel1.Controls.Add(button2);
             flowLayoutPanel1.Controls.Add(button3);
             flowLayoutPanel1.Controls.Add(button4);
+            flowLayoutPanel1.Controls.Add(button5);
             flowLayoutPanel1.Dock = DockStyle.Left;
             flowLayoutPanel1.Location = new Point(0, 78);
             flowLayoutPanel1.Name = "flowLayoutPanel1";
@@ -210,6 +212,22 @@ namespace Calculadora_Financiera_UI
             button4.UseVisualStyleBackColor = true;
             button4.Click += button4_Click;
             // 
+            // button5
+            // 
+            button5.FlatAppearance.BorderSize = 0;
+            button5.FlatAppearance.MouseDownBackColor = SystemColors.Highlight;
+            button5.FlatAppearance.MouseOverBackColor = SystemColors.Highlight;
+            button5.FlatStyle = FlatStyle.Flat;
+            button5.Font = new Font("Century Gothic", 12F, FontStyle.Bold | FontStyle.Italic, GraphicsUnit.Point, 0);
+            button5.Location = new Point(3, 298);
+            button5.Name = "button5";
+            button5.Size = new Size(284, 36);
+            button5.TabIndex = 10;
+            button5.Text = "Formulas";
+            button5.TextAlign = ContentAlignment.MiddleLeft;
+            button5.UseVisualStyleBackColor = true;
+            button5.Click += button5_Click;
+            // 
             // panelReemplazable
             // 
             panelReemplazable.Dock = DockStyle.Fill;
@@ -257,5 +275,6 @@ namespace Calculadora_Financiera_UI
         private Button button2;
         private Button button3;
         private Button button4;
+        private Button button5;
     }
 }

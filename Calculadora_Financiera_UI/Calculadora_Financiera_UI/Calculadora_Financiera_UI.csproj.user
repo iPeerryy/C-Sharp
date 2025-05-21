@@ -4,9 +4,6 @@
     <Compile Update="UserControllers\DecuentoPorProntoPago\CtrDescuentoPorProntoPago.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Update="UserControllers\DecuentoPorProntoPago\CtrDescuentoPorProntoPagoMenu.cs">
-      <SubType>UserControl</SubType>
-    </Compile>
     <Compile Update="UserControllers\Descuento\CtrDescuento.cs">
       <SubType>UserControl</SubType>
     </Compile>
@@ -20,6 +17,9 @@
       <SubType>UserControl</SubType>
     </Compile>
     <Compile Update="UserControllers\EcuacionesValorInteresSimple\CtrEcuacionValor.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControllers\Formulas\CtrFormulas.cs">
       <SubType>UserControl</SubType>
     </Compile>
     <Compile Update="UserControllers\Interes Simple\CtrCapitalFormula.cs">
